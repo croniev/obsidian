@@ -1,0 +1,40 @@
+{
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "mobileToolbarCommands": [
+    "switcher:open",
+    "editor:attach-file",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "obsidian-footnotes:insert-footnote",
+    "templater-obsidian:create-new-note-from-template",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:toggle-checklist-status",
+    "editor:undo",
+    "editor:redo",
+    "note-composer:split-file",
+    "editor:delete-paragraph",
+    "timelines-parse-dates:parse-dates",
+    "editor:configure-toolbar"
+  ],
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "livePreview": false,
+  "userIgnoreFilters": null,
+  "tabSize": 6,
+  "attachmentFolderPath": "_/Bilder",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_"
+}
