@@ -1,5 +1,5 @@
 ---
-tags: todo
+tags: orga
 ---
 ```dataview
 table todo
