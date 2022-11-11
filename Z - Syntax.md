@@ -1,6 +1,7 @@
 ---
 tags: orga
 ---
+###### Boxen
 >[!a]- Beispiele
 
 >[!info]+ Sinn oder Ziel
@@ -27,23 +28,29 @@ tags: orga
 
 >[!quote] Zitat
 
+###### Text
+`# bis ######` unterschiedliche Überschriften
+
+$L^AT_EX$
 
 > Zitat
 >>Zitat supreme
 
+*italic*
+**bold**
+***bolditalic***
 <font color=258798>RGB FARBE</font>
 ==Marker==
 ~~Durchstreichen~~
 %% KOMMENTAR %%
-
-~~~
-Kopierbar in weiss
-~~~
-
-``` CODE oder ERROR```
+`Inline code`
 
 	code
 
+```
+code
+```
+###### Graphen
 ```mermaid
 graph TD
 	A-->B
