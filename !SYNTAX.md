@@ -1,6 +1,7 @@
 ---
 tags: structure
 ---
+[Syntax](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
 ###### Callouts
 >[!a]- Beispiele
 >ajvhdaskzfgasfl
@@ -30,12 +31,11 @@ tags: structure
 >[!quote] Zitat
 
 ###### Text
-`# bis ######` unterschiedliche Überschriften
-
 $L^AT_EX$
 
 > Zitat
 >>Zitat supreme
+>>> I could go on
 
 *italic*
 **bold**
@@ -51,6 +51,9 @@ $L^AT_EX$
 ```
 code
 ```
+
+<!-- Kommentar -->
+%% Kommentar %%
 ###### Graphen
 ```mermaid
 graph TD
@@ -60,5 +63,3 @@ graph TD
 	A-->B
 ```
 Graphen: https://github.com/mermaid-js/mermaid
-
-<!-- Kommentar -->
