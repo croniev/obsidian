@@ -1,3 +1,9 @@
 [submodule ".obsidian/plugins/obsidian-add-page-reference"]
 	path = .obsidian/plugins/obsidian-add-page-reference
 	url = https://github.com/croniev/obsidian-add-page-reference
+[submodule ".obsidian/plugins/obsidian-croniev-bookkeeping"]
+	path = .obsidian/plugins/obsidian-croniev-bookkeeping
+	url = https://github.com/croniev/obsidian-croniev-bookkeeping
+[submodule ".obsidian/plugins/obsidian-timelines-parse-dates"]
+	path = .obsidian/plugins/obsidian-timelines-parse-dates
+	url = https://github.com/croniev/obsidian-timelines-parse-dates
