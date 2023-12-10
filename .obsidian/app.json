@@ -1,0 +1,46 @@
+{
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "mobileToolbarCommands": [
+    "templater-obsidian:jump-to-next-cursor-location",
+    "text-snippets-obsidian:text-snippets",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "templater-obsidian:create-new-note-from-template",
+    "editor:toggle-checklist-status",
+    "editor:toggle-code",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-blockquote",
+    "editor:undo",
+    "editor:redo",
+    "note-composer:split-file",
+    "timelines-parse-dates:parse-dates",
+    "add-page-reference:add-reference",
+    "add-page-reference:increase-page",
+    "editor:configure-toolbar"
+  ],
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "livePreview": false,
+  "userIgnoreFilters": [
+    "Universität/"
+  ],
+  "tabSize": 6,
+  "attachmentFolderPath": "_/Bilder",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "",
+  "spellcheckLanguages": null,
+  "spellcheck": true,
+  "mobilePullAction": "command-palette:open"
+}

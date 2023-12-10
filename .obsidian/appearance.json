@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 13,
+  "cssTheme": "Obsidian Nord",
+  "monospaceFontFamily": "Arial",
+  "enabledCssSnippets": [
+    "obsidian"
+  ],
+  "accentColor": "",
+  "nativeMenus": false
+}

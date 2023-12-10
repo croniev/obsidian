@@ -1,0 +1,35 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "Launch firefox",
+      "Firefox"
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": false,
+  "folder_templates": [],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    "Templates/+Beispiel.md",
+    "Templates/+Definition.md",
+    "Templates/+Todo.md",
+    "Templates/+Tip.md",
+    "Templates/+Frage.md",
+    "Templates/+Aufzählung.md",
+    "Templates/+Erklärung.md",
+    "Templates/+Aufpassen.md",
+    "Templates/+Fehler.md",
+    "Templates/+Problem.md",
+    "Templates/+Gut.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

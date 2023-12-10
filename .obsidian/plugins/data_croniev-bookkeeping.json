@@ -1,0 +1,30 @@
+{
+  "transaction_file": "_transactions.md",
+  "ledger_file": "_ledger.md",
+  "bucket_names": {
+    "g": "Geld",
+    "i": "Income",
+    "w": "Wiederholung",
+    "b": "Besorgung",
+    "s": "Sonstiges",
+    "f": "Freizeit",
+    "e": "Einkaufen"
+  },
+  "table_sums": {
+    "e": "0e",
+    "f": "0f",
+    "b": "0b,0e+f+b",
+    "s": "0s,0e+f+b+s",
+    "w": "0w,0e+f+b+s+w",
+    "i": "+i,+i-e-f-b-s-w,0g+i-e-f-b-s-w"
+  },
+  "include_transactions": true,
+  "include_piechart": true,
+  "piechart_buckets": [
+    "e",
+    "f",
+    "b",
+    "s",
+    "w"
+  ]
+}

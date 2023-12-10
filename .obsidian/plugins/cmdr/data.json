@@ -1,0 +1,78 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:3b694ee0-fac0-42bf-b7b5-a4d97b1a031c",
+      "icon": "bitcoin",
+      "name": "QuickAdd: Add to ledger",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-croniev-bookkeeping:update-ledger",
+      "icon": "calculator",
+      "name": "Croniev Bookkeeping: Update Ledger",
+      "mode": "any"
+    },
+    {
+      "id": "timelines-parse-dates:parse-dates",
+      "icon": "calendar",
+      "name": "Date Parsing for Timelines: Parse Dates",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "editor-status"
+    ],
+    "leftRibbon": [
+      "Templater",
+      "Open quick switcher",
+      "Open graph view",
+      "Insert template",
+      "Open command palette",
+      "Advanced Tables Toolbar"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": true,
+    "mappedIcons": [
+      {
+        "commandID": "templater-obsidian:jump-to-next-cursor-location",
+        "iconID": "arrow-right-circle"
+      },
+      {
+        "commandID": "quickadd:choice:3b694ee0-fac0-42bf-b7b5-a4d97b1a031c",
+        "iconID": "bitcoin"
+      },
+      {
+        "commandID": "obsidian-footnotes:insert-footnote",
+        "iconID": "asterisk"
+      },
+      {
+        "commandID": "templater-obsidian:create-new-note-from-template",
+        "iconID": "book-open"
+      },
+      {
+        "commandID": "timelines-parse-dates:parse-dates",
+        "iconID": "calendar"
+      }
+    ],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

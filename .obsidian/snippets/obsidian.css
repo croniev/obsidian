@@ -1,0 +1,113 @@
+/* Person 1 */
+.vis-item.person1 {
+    background-color: orangered;/*rgba(130,0,0,0.295); */
+    filter: none;
+    border-color: red;
+    color: rgba(255,255,200,0.9);
+}
+
+.vis-item.vis-selected.person1 {
+    background-color: orange;
+    border-color: red;
+    color: black;
+}
+
+/*Geschi X*/
+.vis-item.geschix {
+    background-color: orangered;/*rgba(130,0,0,0.295); */
+    filter: none;
+    border-color: red;
+    color: rgba(255,255,200,0.9);
+}
+
+.vis-item.vis-selected.geschix {
+    background-color: orange;
+    border-color: red;
+    color: black;;
+}
+
+/*Geschi 1*/
+.vis-item.geschi1 {
+    background-color: rgba(0, 0, 255, 0.2);
+    filter: none;
+    border-color: darkblue;
+    color: rgba(255,255,200,0.9);
+}
+
+.vis-item.vis-selected.geschi1 {
+    background-color: lightblue;
+    border-color: darkblue;
+    color: black;
+}
+
+/*Geschi 2*/
+.vis-item.geschi2 {
+    background-color: rgba(200,120,30,0.8);
+    filter: none;
+    border-color: orangered;
+    color: rgba(255,255,200,0.9);
+}
+
+.vis-item.vis-selected.geschi2 {
+    background-color: rgba(240,170,100,1);
+    border-color: orangered;
+    color: black;
+}
+
+/*Geschi 3*/
+.vis-item.geschi3 {
+    background-color: rgba(50,180,60,0.6);
+    filter: none;
+    border-color: green;
+    color: rgba(255,255,200,0.9);
+}
+
+.vis-item.vis-selected.geschi3 {
+    background-color: rgba(70,210,90,1);
+    border-color: green;
+    color: black;
+}
+
+/*Geschi 4*/
+.vis-item.geschi4 {
+    background-color: rgba(170,10,140,0.5);
+    filter: none;
+    border-color: blue;
+    color: rgba(255,255,200,0.9);
+}
+
+.vis-item.vis-selected.geschi4 {
+    background-color: rgba(190,30,190,1);
+    border-color: blue;
+}
+
+/*Geschi O*/
+.vis-item.geschio {
+    background-color: rgba(130,130,130,1);
+    filter: none;
+    border-color: black;
+    color: rgba(255,255,200,0.9);
+}
+
+.vis-item.vis-selected.geschio {
+    background-color: rgba(175,175,175,1);
+    border-color: black;
+    color: black;
+}
+
+/* Render the ob-timelines span or div elements as inline blocks that use an italic font */
+.ob-timelines {
+  display: inline-block !important;
+  /*font-style: italic; */
+}
+
+.mermaid svg {
+  max-height: 360px;
+  width: auto;
+  color: white;
+  text-shadow: 0px 0px 3.5px black;
+};
+
+.classLabel text {
+  fill: #ffffff !important;
+}

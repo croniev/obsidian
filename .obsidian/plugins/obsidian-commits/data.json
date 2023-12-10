@@ -1,0 +1,3705 @@
+{
+  "initialized": true,
+  "trackedProjects": [
+    "/"
+  ],
+  "filesCheckpoint": {
+    "Z - README.md": {
+      "size": 9040,
+      "tags": 1,
+      "links": 21
+    },
+    "_ledger.md": {
+      "size": 11681,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/3_Phil-Husserl/Protokoll_1_2_Abgabe_final.md": {
+      "size": 17252,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/3_Phil-Husserl/Protokoll_1_2_Abgabe.md": {
+      "size": 16427,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/3_Phil-Husserl/Protokoll_1_2_mitschrift.md": {
+      "size": 13701,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_BP/Crysl-MPS/README.md": {
+      "size": 1832,
+      "tags": 0,
+      "links": 0
+    },
+    "Templates/5_NLP4Web.md": {
+      "size": 199,
+      "tags": 2,
+      "links": 2
+    },
+    "Templates/Dilemma.md": {
+      "size": 301,
+      "tags": 2,
+      "links": 0
+    },
+    "Templates/Projekt.md": {
+      "size": 243,
+      "tags": 3,
+      "links": 0
+    },
+    "Templates/Paper Draft.md": {
+      "size": 422,
+      "tags": 3,
+      "links": 0
+    },
+    "Templates/timeline.md": {
+      "size": 178,
+      "tags": 0,
+      "links": 0
+    },
+    "Templates/Person.md": {
+      "size": 513,
+      "tags": 3,
+      "links": 1
+    },
+    "Templates/Periode.md": {
+      "size": 680,
+      "tags": 4,
+      "links": 0
+    },
+    "Templates/Musik.md": {
+      "size": 162,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/lev.md": {
+      "size": 135,
+      "tags": 1,
+      "links": 1
+    },
+    "Templates/dataview.md": {
+      "size": 66,
+      "tags": 0,
+      "links": 0
+    },
+    "Templates/Geschichte.md": {
+      "size": 335,
+      "tags": 3,
+      "links": 0
+    },
+    "Templates/5_Topics.md": {
+      "size": 456,
+      "tags": 3,
+      "links": 2
+    },
+    "Templates/5_Beweg.md": {
+      "size": 179,
+      "tags": 1,
+      "links": 1
+    },
+    "Templates/!.md": {
+      "size": 257,
+      "tags": 3,
+      "links": 0
+    },
+    "Templates/Knowledge.md": {
+      "size": 72,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/5_SzWt.md": {
+      "size": 429,
+      "tags": 2,
+      "links": 3
+    },
+    "Templates/Tagebuch.md": {
+      "size": 411,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/5_ITPS.md": {
+      "size": 248,
+      "tags": 1,
+      "links": 2
+    },
+    "Templates/Blog.md": {
+      "size": 29,
+      "tags": 0,
+      "links": 0
+    },
+    "Templates/Themenbereich.md": {
+      "size": 772,
+      "tags": 2,
+      "links": 0
+    },
+    "Templates/Konzept.md": {
+      "size": 156,
+      "tags": 3,
+      "links": 0
+    },
+    "Templates/System.md": {
+      "size": 643,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/Modul.md": {
+      "size": 345,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/Essay.md": {
+      "size": 240,
+      "tags": 3,
+      "links": 0
+    },
+    "Templates/5_MotLern.md": {
+      "size": 214,
+      "tags": 1,
+      "links": 1
+    },
+    "Templates/Reads.md": {
+      "size": 384,
+      "tags": 1,
+      "links": 2
+    },
+    "Templates/Gedankentagebuch.md": {
+      "size": 219,
+      "tags": 1,
+      "links": 0
+    },
+    "Templates/Kunst.md": {
+      "size": 172,
+      "tags": 1,
+      "links": 0
+    },
+    "!Philosophie.md": {
+      "size": 691,
+      "tags": 1,
+      "links": 0
+    },
+    "Z - README2.md": {
+      "size": 3542,
+      "tags": 4,
+      "links": 15
+    },
+    "-Knowledge.md": {
+      "size": 99,
+      "tags": 1,
+      "links": 0
+    },
+    "Z - Syntax.md": {
+      "size": 734,
+      "tags": 1,
+      "links": 0
+    },
+    "Z - Lernen.md": {
+      "size": 1229,
+      "tags": 0,
+      "links": 2
+    },
+    "-Recherche.md": {
+      "size": 1219,
+      "tags": 1,
+      "links": 5
+    },
+    "!Geschichte.md": {
+      "size": 394,
+      "tags": 1,
+      "links": 0
+    },
+    "_/'Bullshit'.md": {
+      "size": 4980,
+      "tags": 3,
+      "links": 6
+    },
+    "_/LQR.md": {
+      "size": 2370,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Bayes' Rule.md": {
+      "size": 1167,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Musik-Generier-KI.md": {
+      "size": 189,
+      "tags": 0,
+      "links": 0
+    },
+    "_/WuF Abschlussdiskussion.md": {
+      "size": 1372,
+      "tags": 1,
+      "links": 0
+    },
+    "_/''Materiell.md": {
+      "size": 237,
+      "tags": 1,
+      "links": 0
+    },
+    "_/'Distinguishing between cognitive and social values'.md": {
+      "size": 12095,
+      "tags": 2,
+      "links": 11
+    },
+    "_/Naive Bayes.md": {
+      "size": 787,
+      "tags": 2,
+      "links": 6
+    },
+    "_/!CogSciIII.md": {
+      "size": 326,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Illusion von Teleologie (Text).md": {
+      "size": 269,
+      "tags": 0,
+      "links": 1
+    },
+    "_/'Inductive Risk and Values in Science'.md": {
+      "size": 6434,
+      "tags": 2,
+      "links": 8
+    },
+    "_/!NLP4Web.md": {
+      "size": 471,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Bewegungslernen und Anwendungsfunktion.md": {
+      "size": 858,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Moscatelli et al (2019).md": {
+      "size": 3221,
+      "tags": 3,
+      "links": 4
+    },
+    "_/Securitisation.md": {
+      "size": 1003,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Kinematics.md": {
+      "size": 453,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Bootstrapping.md": {
+      "size": 356,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Buchvorstellung 'Die Wahrheit schafft sich ab'.md": {
+      "size": 5632,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Graphical models.md": {
+      "size": 2117,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Ableton Effects.md": {
+      "size": 979,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Morphology.md": {
+      "size": 1783,
+      "tags": 2,
+      "links": 4
+    },
+    "_/Force applied to mouse experiment.md": {
+      "size": 4630,
+      "tags": 0,
+      "links": 5
+    },
+    "_/Motorik.md": {
+      "size": 640,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Neurophysiologische Modelle.md": {
+      "size": 594,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Unhinterfragte Perspektive.md": {
+      "size": 875,
+      "tags": 1,
+      "links": 5
+    },
+    "_/Likelihood.md": {
+      "size": 508,
+      "tags": 1,
+      "links": 0
+    },
+    "_/I dont care that much.md": {
+      "size": 281,
+      "tags": 0,
+      "links": 0
+    },
+    "_/(P) Renaissance.md": {
+      "size": 613,
+      "tags": 4,
+      "links": 2
+    },
+    "_/Popper, Karl.md": {
+      "size": 1097,
+      "tags": 4,
+      "links": 3
+    },
+    "_/Ableton Trickies.md": {
+      "size": 2487,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Extended Linear Models.md": {
+      "size": 2603,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Gori et al (2008).md": {
+      "size": 1839,
+      "tags": 3,
+      "links": 4
+    },
+    "_/(S) Chaos.md": {
+      "size": 605,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Abgabe_7a_PyMC.md": {
+      "size": 2823,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Conditional Probability.md": {
+      "size": 482,
+      "tags": 2,
+      "links": 1
+    },
+    "_/Thesenpapier 'Die Wahrheit schafft sich ab'.md": {
+      "size": 2313,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Summer Camps.md": {
+      "size": 1952,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Py.Numpy.md": {
+      "size": 250,
+      "tags": 1,
+      "links": 1
+    },
+    "_/'Philosophische Untersuchungen' (Wittgenstein).md": {
+      "size": 4332,
+      "tags": 3,
+      "links": 6
+    },
+    "_/!Topics - Multisensory perception and action.md": {
+      "size": 454,
+      "tags": 2,
+      "links": 4
+    },
+    "_/(T) Erkenntnisstheorie.md": {
+      "size": 728,
+      "tags": 2,
+      "links": 0
+    },
+    "_/HA7 - Embodyment.md": {
+      "size": 1555,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Learning with aphantasia.md": {
+      "size": 861,
+      "tags": 1,
+      "links": 0
+    },
+    "_/HA6 - Künzell.md": {
+      "size": 1366,
+      "tags": 1,
+      "links": 1
+    },
+    "_/'Philosophy in the Flesh'.md": {
+      "size": 1460,
+      "tags": 1,
+      "links": 10
+    },
+    "_/HA10 - Sparenberg.md": {
+      "size": 1398,
+      "tags": 1,
+      "links": 1
+    },
+    "_/'Das C.G. Jung Lesebuch' (Franz Alt).md": {
+      "size": 1274,
+      "tags": 1,
+      "links": 5
+    },
+    "_/Genealogie.md": {
+      "size": 404,
+      "tags": 2,
+      "links": 4
+    },
+    "_/Heidi und Pia Techno Remix.md": {
+      "size": 41,
+      "tags": 0,
+      "links": 0
+    },
+    "_/(S) Engineeringswahn.md": {
+      "size": 814,
+      "tags": 1,
+      "links": 3
+    },
+    "_/!Soziale Werte in den Wissenschaften.md": {
+      "size": 1124,
+      "tags": 1,
+      "links": 1
+    },
+    "_/!Bachelorpraktikum.md": {
+      "size": 372,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Samad et al. (2015).md": {
+      "size": 7997,
+      "tags": 3,
+      "links": 2
+    },
+    "_/Wissenschaft (bew).md": {
+      "size": 1057,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Autonome Tutorien.md": {
+      "size": 1508,
+      "tags": 1,
+      "links": 0
+    },
+    "_/WuF Essay.md": {
+      "size": 23019,
+      "tags": 2,
+      "links": 13
+    },
+    "_/Vorbereitung AG-Treffen.md": {
+      "size": 370,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Geschlossen wegen Tierquälerei.md": {
+      "size": 24,
+      "tags": 0,
+      "links": 0
+    },
+    "_/ad hoc Hypothesen.md": {
+      "size": 505,
+      "tags": 1,
+      "links": 1
+    },
+    "_/(P) Spätmittelalter.md": {
+      "size": 633,
+      "tags": 4,
+      "links": 3
+    },
+    "_/Naturalismus (wiss).md": {
+      "size": 450,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Funktionstragende Prozesse beim Bewegungslernen.md": {
+      "size": 438,
+      "tags": 1,
+      "links": 1
+    },
+    "_/(S) Perspektive.md": {
+      "size": 628,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Introduction - IT in Peace, Conflict and Security Research.md": {
+      "size": 2243,
+      "tags": 1,
+      "links": 3
+    },
+    "_/'Werte, Heuristiken und die Politik des Wissens'.md": {
+      "size": 11972,
+      "tags": 2,
+      "links": 9
+    },
+    "_/CBT.md": {
+      "size": 106,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Politik - Mit Gesetzen die Welt festnageln.md": {
+      "size": 226,
+      "tags": 1,
+      "links": 1
+    },
+    "_/(T) Existenzphilosophie.md": {
+      "size": 732,
+      "tags": 2,
+      "links": 0
+    },
+    "_/'Freunde interpretierbarer Fakten - Wissenschaft und Verschwörung'.md": {
+      "size": 5523,
+      "tags": 3,
+      "links": 9
+    },
+    "_/Synthetische Arbeitszufriedenheit.md": {
+      "size": 525,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Adaptation.md": {
+      "size": 3920,
+      "tags": 1,
+      "links": 4
+    },
+    "_/BA zu ownership und embodiment.md": {
+      "size": 1215,
+      "tags": 0,
+      "links": 1
+    },
+    "_/(S) Selbsterfüllende Prophezeihung.md": {
+      "size": 708,
+      "tags": 1,
+      "links": 2
+    },
+    "_/From Cyber War to Cyber Peace.md": {
+      "size": 2398,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Perspektive (Begriff).md": {
+      "size": 747,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Habermas, Jürgen.md": {
+      "size": 1326,
+      "tags": 3,
+      "links": 5
+    },
+    "_/Freizeit wie.md": {
+      "size": 1712,
+      "tags": 1,
+      "links": 0
+    },
+    "_/!Statmod.md": {
+      "size": 412,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Arendt, Hannah.md": {
+      "size": 465,
+      "tags": 4,
+      "links": 2
+    },
+    "_/Phil of Humanities/11 - Critique of Ideology and Structuralism (Anti-Hermeneutic Reseach Paradigms II).md": {
+      "size": 3919,
+      "tags": 0,
+      "links": 15
+    },
+    "_/Phil of Humanities/Flusser.md": {
+      "size": 108,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Phil of Humanities/Phenomenology.md": {
+      "size": 1824,
+      "tags": 0,
+      "links": 7
+    },
+    "_/Phil of Humanities/Descartes.md": {
+      "size": 36,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Phil of Humanities/Logic.md": {
+      "size": 627,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Phil of Humanities/Freud.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Phil of Humanities/Darwin.md": {
+      "size": 40,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Phil of Humanities/1 - Introduction.md": {
+      "size": 1130,
+      "tags": 0,
+      "links": 8
+    },
+    "_/Phil of Humanities/Septem Artes.md": {
+      "size": 133,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Phil of Humanities/Structuralism.md": {
+      "size": 2000,
+      "tags": 0,
+      "links": 8
+    },
+    "_/Phil of Humanities/21st Century.md": {
+      "size": 867,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Phil of Humanities/Antike.md": {
+      "size": 261,
+      "tags": 0,
+      "links": 11
+    },
+    "_/Phil of Humanities/4 - Dialectics.md": {
+      "size": 2733,
+      "tags": 0,
+      "links": 10
+    },
+    "_/Phil of Humanities/Poststructuralism.md": {
+      "size": 331,
+      "tags": 0,
+      "links": 4
+    },
+    "_/Phil of Humanities/Epistemology.md": {
+      "size": 18,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Phil of Humanities/Postmodernism.md": {
+      "size": 296,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Phil of Humanities/9 - Hermeneutic Programs in the 20th Century.md": {
+      "size": 5975,
+      "tags": 0,
+      "links": 4
+    },
+    "_/Phil of Humanities/Rhetoric.md": {
+      "size": 1256,
+      "tags": 0,
+      "links": 9
+    },
+    "_/Phil of Humanities/Derrida.md": {
+      "size": 1239,
+      "tags": 0,
+      "links": 6
+    },
+    "_/Phil of Humanities/Ideology.md": {
+      "size": 326,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Phil of Humanities/Cicero.md": {
+      "size": 336,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Phil of Humanities/20th Century.md": {
+      "size": 1767,
+      "tags": 0,
+      "links": 12
+    },
+    "_/Phil of Humanities/Exegesis.md": {
+      "size": 443,
+      "tags": 0,
+      "links": 4
+    },
+    "_/Phil of Humanities/12 - Media, Cultural Techniques, Things.md": {
+      "size": 4491,
+      "tags": 0,
+      "links": 14
+    },
+    "_/Phil of Humanities/Kittler.md": {
+      "size": 248,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Phil of Humanities/3 - Media.md": {
+      "size": 792,
+      "tags": 0,
+      "links": 5
+    },
+    "_/Phil of Humanities/Geist.md": {
+      "size": 1105,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Phil of Humanities/Pathos.md": {
+      "size": 31,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Phil of Humanities/8 - Hermeneutics II (Philology III).md": {
+      "size": 8051,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Phil of Humanities/Ethics.md": {
+      "size": 313,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Phil of Humanities/Geisteswissenschaft Scientificality.md": {
+      "size": 536,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Phil of Humanities/Geisteswissenschaften (Wiki).md": {
+      "size": 317,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Phil of Humanities/6 - Epochs of Philology II - textual criticism and spiritual literalism.md": {
+      "size": 5263,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Phil of Humanities/Aristoteles.md": {
+      "size": 449,
+      "tags": 0,
+      "links": 7
+    },
+    "_/Phil of Humanities/Marx.md": {
+      "size": 193,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Phil of Humanities/Schleiermacher.md": {
+      "size": 219,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Phil of Humanities/TODO.md": {
+      "size": 383,
+      "tags": 0,
+      "links": 6
+    },
+    "_/Phil of Humanities/14 - Critique as form of research - What is critique.md": {
+      "size": 6634,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Phil of Humanities/False Consciousness.md": {
+      "size": 364,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Phil of Humanities/Philology.md": {
+      "size": 22,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Phil of Humanities/5 - Rhetorics and Exegesis (Epochs of Philology I).md": {
+      "size": 1120,
+      "tags": 0,
+      "links": 10
+    },
+    "_/Phil of Humanities/Erhard Schmid - 'Theory of science'.md": {
+      "size": 190,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Phil of Humanities/Deconstruction.md": {
+      "size": 1397,
+      "tags": 0,
+      "links": 5
+    },
+    "_/Phil of Humanities/19th Century - Modern Era.md": {
+      "size": 1823,
+      "tags": 0,
+      "links": 14
+    },
+    "_/Phil of Humanities/Gadamer.md": {
+      "size": 188,
+      "tags": 0,
+      "links": 4
+    },
+    "_/Phil of Humanities/Hermeneutics.md": {
+      "size": 133,
+      "tags": 0,
+      "links": 4
+    },
+    "_/Phil of Humanities/Sokrates.md": {
+      "size": 60,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Phil of Humanities/Kant.md": {
+      "size": 1359,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Phil of Humanities/Galilei.md": {
+      "size": 26,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Phil of Humanities/Positivismus.md": {
+      "size": 343,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Phil of Humanities/2 - On European Epistemology.md": {
+      "size": 2035,
+      "tags": 0,
+      "links": 17
+    },
+    "_/Phil of Humanities/Middle Ages.md": {
+      "size": 932,
+      "tags": 0,
+      "links": 7
+    },
+    "_/Phil of Humanities/4 - Logos.md": {
+      "size": 1281,
+      "tags": 0,
+      "links": 6
+    },
+    "_/Phil of Humanities/Hegel - Spirit.md": {
+      "size": 3794,
+      "tags": 0,
+      "links": 6
+    },
+    "_/Phil of Humanities/Pragmatism.md": {
+      "size": 647,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Phil of Humanities/0 - Aim and Goal.md": {
+      "size": 295,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Phil of Humanities/Critical Theory.md": {
+      "size": 2491,
+      "tags": 0,
+      "links": 9
+    },
+    "_/Phil of Humanities/Augustine.md": {
+      "size": 827,
+      "tags": 0,
+      "links": 4
+    },
+    "_/Phil of Humanities/3 - Institutions & Science.md": {
+      "size": 1132,
+      "tags": 0,
+      "links": 6
+    },
+    "_/Phil of Humanities/18th Century - Enlightenment.md": {
+      "size": 1276,
+      "tags": 0,
+      "links": 10
+    },
+    "_/Phil of Humanities/Focault.md": {
+      "size": 7154,
+      "tags": 0,
+      "links": 10
+    },
+    "_/Phil of Humanities/Trivium.md": {
+      "size": 82,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Phil of Humanities/Dilthey.md": {
+      "size": 1714,
+      "tags": 0,
+      "links": 6
+    },
+    "_/Phil of Humanities/Humboldt.md": {
+      "size": 785,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Phil of Humanities/7 - Hermeneutics I (The Epochs of Philology III).md": {
+      "size": 6666,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Phil of Humanities/Ethos.md": {
+      "size": 116,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Phil of Humanities/13 - Digitalization of Humanitites.md": {
+      "size": 8185,
+      "tags": 0,
+      "links": 5
+    },
+    "_/Phil of Humanities/Nietzsche.md": {
+      "size": 126,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Phil of Humanities/3 - Disciplines & Topics.md": {
+      "size": 1932,
+      "tags": 0,
+      "links": 8
+    },
+    "_/Phil of Humanities/Renaissance.md": {
+      "size": 520,
+      "tags": 0,
+      "links": 5
+    },
+    "_/Phil of Humanities/Quadrivium.md": {
+      "size": 62,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Phil of Humanities/10 - Critique of Ideology and Structuralism (Anti-Hermeneutic Research Paradigms I).md": {
+      "size": 2172,
+      "tags": 0,
+      "links": 8
+    },
+    "_/Phil of Humanities/Plato.md": {
+      "size": 683,
+      "tags": 0,
+      "links": 6
+    },
+    "_/Verification in Cyberspace.md": {
+      "size": 1651,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Minimum Jerk.md": {
+      "size": 1876,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Entropy (Neurons).md": {
+      "size": 341,
+      "tags": 1,
+      "links": 0
+    },
+    "_/!Musik.md": {
+      "size": 418,
+      "tags": 4,
+      "links": 0
+    },
+    "_/Sound Design.md": {
+      "size": 717,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Naturalistische Entwicklungspsychologie.md": {
+      "size": 769,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Neokonnektionismus.md": {
+      "size": 330,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Logistic regression.md": {
+      "size": 2106,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Technologie.md": {
+      "size": 164,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Warum Aufklärer verzweifeln.md": {
+      "size": 522,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Ernst (2007).md": {
+      "size": 2419,
+      "tags": 3,
+      "links": 2
+    },
+    "_/Arms Control and its Applicability to Cyberspace.md": {
+      "size": 1771,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Negen et al. (2018).md": {
+      "size": 5270,
+      "tags": 3,
+      "links": 4
+    },
+    "_/Askese.md": {
+      "size": 252,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Bewegungswiss. Modelle.md": {
+      "size": 706,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Question Answering.md": {
+      "size": 2693,
+      "tags": 2,
+      "links": 6
+    },
+    "_/Darknets as Tools for Cyber Warfare.md": {
+      "size": 1137,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Feedback (Bewegungswissenschaft).md": {
+      "size": 1010,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Lyotard, Jean-Francois.md": {
+      "size": 584,
+      "tags": 4,
+      "links": 1
+    },
+    "_/Erster Weltkrieg.md": {
+      "size": 247,
+      "tags": 3,
+      "links": 1
+    },
+    "_/Analysis Levels in Language Understanding.md": {
+      "size": 1469,
+      "tags": 2,
+      "links": 5
+    },
+    "_/!Motorisches Lernen.md": {
+      "size": 868,
+      "tags": 1,
+      "links": 2
+    },
+    "_/NLP and Deep Learning.md": {
+      "size": 1071,
+      "tags": 1,
+      "links": 3
+    },
+    "_/(P) Antike.md": {
+      "size": 600,
+      "tags": 4,
+      "links": 1
+    },
+    "_/(S) Kunst.md": {
+      "size": 531,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Buch - How we think about thinking is wicked.md": {
+      "size": 1653,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Social Media and ICT Usage in Conflict Areas.md": {
+      "size": 3040,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Ideal Types.md": {
+      "size": 906,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Hillis et al (2002).md": {
+      "size": 3966,
+      "tags": 3,
+      "links": 7
+    },
+    "_/Wiki dings.md": {
+      "size": 1693,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Text Corpora.md": {
+      "size": 1663,
+      "tags": 2,
+      "links": 4
+    },
+    "_/Confidence and Security Building Measures for Cyber Forces.md": {
+      "size": 1784,
+      "tags": 1,
+      "links": 2
+    },
+    "_/State space modelling for control.md": {
+      "size": 1941,
+      "tags": 1,
+      "links": 1
+    },
+    "_/''Musik.md": {
+      "size": 250,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Dual-Use and Dilemmas for Cybersecurity, Peace and Technology Assessment.md": {
+      "size": 2238,
+      "tags": 1,
+      "links": 3
+    },
+    "_/'Kurze Bemerkung zur Verwirrung der Vernunft'.md": {
+      "size": 3746,
+      "tags": 3,
+      "links": 6
+    },
+    "_/Colors.md": {
+      "size": 182,
+      "tags": 0,
+      "links": 0
+    },
+    "_/(P) Reformation.md": {
+      "size": 634,
+      "tags": 4,
+      "links": 3
+    },
+    "_/Vorstellung ITPS.md": {
+      "size": 1128,
+      "tags": 1,
+      "links": 2
+    },
+    "_/HA8 - Miriam.md": {
+      "size": 1244,
+      "tags": 1,
+      "links": 1
+    },
+    "_/HA5 - mein thema.md": {
+      "size": 1436,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Stipendien.md": {
+      "size": 3284,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Französische Phil/Heidegger.md": {
+      "size": 1472,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Französische Phil/2 - Einflüsse aus Deutschland in Frankreich.md": {
+      "size": 1099,
+      "tags": 0,
+      "links": 9
+    },
+    "_/Französische Phil/Existenzialismus.md": {
+      "size": 478,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Französische Phil/Poststrukturalismus.md": {
+      "size": 1770,
+      "tags": 0,
+      "links": 5
+    },
+    "_/Französische Phil/1 - Phil in Frankreich vom 19. zum 20. Jhd..md": {
+      "size": 596,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Französische Phil/Rationalismus - Empirismus.md": {
+      "size": 974,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Französische Phil/Rancière - Neubegründung der pol. Philosophie.md": {
+      "size": 742,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Französische Phil/Strukturalismus.md": {
+      "size": 1547,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Französische Phil/Saussure.md": {
+      "size": 633,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Französische Phil/0 - Wichtige Strömungen.md": {
+      "size": 245,
+      "tags": 0,
+      "links": 7
+    },
+    "_/Französische Phil/Sartre.md": {
+      "size": 799,
+      "tags": 0,
+      "links": 7
+    },
+    "_/Französische Phil/''neue Philosophen''.md": {
+      "size": 379,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Französische Phil/Kojève.md": {
+      "size": 304,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Französische Phil/Hegel.md": {
+      "size": 340,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Französische Phil/0 - Wichtige Themen.md": {
+      "size": 600,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Französische Phil/3 - Neue franz Philosophie.md": {
+      "size": 228,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Illusion von Einheitlichem Bewusstsein.md": {
+      "size": 254,
+      "tags": 2,
+      "links": 1
+    },
+    "_/Assume Brainless Subjects.md": {
+      "size": 109,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Unvorhersehbarkeit von Stabilität.md": {
+      "size": 1012,
+      "tags": 1,
+      "links": 1
+    },
+    "_/(T) Lebensphilosophie.md": {
+      "size": 724,
+      "tags": 2,
+      "links": 0
+    },
+    "_/Word Embeddings.md": {
+      "size": 599,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Machiavelli, Niccoló.md": {
+      "size": 609,
+      "tags": 3,
+      "links": 2
+    },
+    "_/!ExPra.md": {
+      "size": 242,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Generative Linguistics.md": {
+      "size": 130,
+      "tags": 1,
+      "links": 2
+    },
+    "_/(P) Frühmittelalter.md": {
+      "size": 621,
+      "tags": 4,
+      "links": 2
+    },
+    "_/!Informationstechnologie für Frieden und Sicherheit.md": {
+      "size": 449,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Misverstandener moderner postmodernismus.md": {
+      "size": 2227,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Amazon Mechanical Turk.md": {
+      "size": 530,
+      "tags": 2,
+      "links": 4
+    },
+    "_/Regular expressions.md": {
+      "size": 1942,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Putnam, Hilary.md": {
+      "size": 1340,
+      "tags": 3,
+      "links": 1
+    },
+    "_/kleine Erzählungen (Old).md": {
+      "size": 426,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Introduction NLP4Web.md": {
+      "size": 243,
+      "tags": 1,
+      "links": 1
+    },
+    "_/'Antwort auf die Frage was ist postmodern'.md": {
+      "size": 5222,
+      "tags": 3,
+      "links": 5
+    },
+    "_/'Tractatus'.md": {
+      "size": 3237,
+      "tags": 3,
+      "links": 4
+    },
+    "_/Plasticity und Postmoderne.md": {
+      "size": 45,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Probability - Subjective belief vs objective relative frequency.md": {
+      "size": 1803,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Senna et al (2021).md": {
+      "size": 4049,
+      "tags": 3,
+      "links": 4
+    },
+    "_/Modelle (in Psychol.).md": {
+      "size": 721,
+      "tags": 1,
+      "links": 1
+    },
+    "_/'Erkentnis und Interesse'.md": {
+      "size": 9901,
+      "tags": 2,
+      "links": 13
+    },
+    "_/Safety and Security - Their Relation and Transformation.md": {
+      "size": 5207,
+      "tags": 1,
+      "links": 5
+    },
+    "_/!Wissenschaft.md": {
+      "size": 405,
+      "tags": 1,
+      "links": 6
+    },
+    "_/'Embodied Mind, Meaning, and Reason'.md": {
+      "size": 2698,
+      "tags": 1,
+      "links": 7
+    },
+    "_/Abgabe Topics Negen.md": {
+      "size": 2551,
+      "tags": 3,
+      "links": 3
+    },
+    "_/Loss functions.md": {
+      "size": 605,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Verstehen dauert.md": {
+      "size": 520,
+      "tags": 2,
+      "links": 0
+    },
+    "_/'Geteilte Fallibilität'.md": {
+      "size": 5329,
+      "tags": 3,
+      "links": 14
+    },
+    "_/Quellen (MotLern).md": {
+      "size": 599,
+      "tags": 1,
+      "links": 4
+    },
+    "_/'Psychopolitik'.md": {
+      "size": 4919,
+      "tags": 1,
+      "links": 7
+    },
+    "_/Bayesian Networks.md": {
+      "size": 1551,
+      "tags": 1,
+      "links": 5
+    },
+    "_/!Kunst.md": {
+      "size": 300,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Mein Rahmen.md": {
+      "size": 1088,
+      "tags": 0,
+      "links": 1
+    },
+    "_/!lev.md": {
+      "size": 544,
+      "tags": 1,
+      "links": 9
+    },
+    "_/Engineeringswahn dank Postmodernismus.md": {
+      "size": 555,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Problems in Human Motor Control.md": {
+      "size": 3931,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Security of Critical Information Infrastructures.md": {
+      "size": 2560,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Akzelerationismus.md": {
+      "size": 438,
+      "tags": 1,
+      "links": 0
+    },
+    "_/The Future of IT in Peace and Security.md": {
+      "size": 4401,
+      "tags": 1,
+      "links": 20
+    },
+    "_/Probability Distributions.md": {
+      "size": 662,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Bayesian Inference.md": {
+      "size": 5108,
+      "tags": 1,
+      "links": 10
+    },
+    "_/Gegenbeweise statt Beweise Sammeln.md": {
+      "size": 1399,
+      "tags": 1,
+      "links": 3
+    },
+    "_/'Die Wahrheit schafft sich ab'.md": {
+      "size": 9561,
+      "tags": 2,
+      "links": 8
+    },
+    "_/Philosophie als Kritik.md": {
+      "size": 178,
+      "tags": 2,
+      "links": 0
+    },
+    "_/Perspektive nicht explizit.md": {
+      "size": 361,
+      "tags": 1,
+      "links": 1
+    },
+    "_/!Grundlagen der Bewegungswissenschaft.md": {
+      "size": 663,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Sequence Learning.md": {
+      "size": 2012,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Statmod Klausur Lernen.md": {
+      "size": 10872,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Gesetzmäßigkeiten.md": {
+      "size": 1043,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Tarzan - Wahrheitslianen.md": {
+      "size": 486,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Status quo.md": {
+      "size": 1175,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Web Genre Classification.md": {
+      "size": 1278,
+      "tags": 2,
+      "links": 3
+    },
+    "_/Biomechanik.md": {
+      "size": 546,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Information Retrieval.md": {
+      "size": 4903,
+      "tags": 2,
+      "links": 8
+    },
+    "_/Idee BA - BI-Modell auf unterschiedlichen Ebenen untersuchen.md": {
+      "size": 1252,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Verschwörung -> Weltschmerz.md": {
+      "size": 859,
+      "tags": 1,
+      "links": 1
+    },
+    "_/(T) Kritische Theorie.md": {
+      "size": 724,
+      "tags": 2,
+      "links": 0
+    },
+    "_/Meine Soziologie.md": {
+      "size": 2260,
+      "tags": 0,
+      "links": 12
+    },
+    "_/!Reads.md": {
+      "size": 442,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Attribution of Cyber Attacks.md": {
+      "size": 3352,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Schwierigkeit was zu verändern.md": {
+      "size": 1366,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Burge et al. (2008).md": {
+      "size": 3401,
+      "tags": 3,
+      "links": 3
+    },
+    "_/Maximum Likelihood Estimate.md": {
+      "size": 662,
+      "tags": 1,
+      "links": 2
+    },
+    "_/!Projekte.md": {
+      "size": 584,
+      "tags": 1,
+      "links": 6
+    },
+    "_/Modulation and Automation.md": {
+      "size": 913,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Bachelorarbeit Handy.md": {
+      "size": 778,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Blogging.md": {
+      "size": 385,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Inverse Kinematics.md": {
+      "size": 1650,
+      "tags": 1,
+      "links": 2
+    },
+    "_/''Digital.md": {
+      "size": 294,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Battaglia et al (2010).md": {
+      "size": 7158,
+      "tags": 3,
+      "links": 6
+    },
+    "_/Anti Mimesis.md": {
+      "size": 1649,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Natural-Science - Technical Peace Research.md": {
+      "size": 2900,
+      "tags": 1,
+      "links": 5
+    },
+    "_/Nik - menschen werden nie was guten tun.md": {
+      "size": 979,
+      "tags": 2,
+      "links": 1
+    },
+    "_/Steuererklärung machen.md": {
+      "size": 262,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Probabilistic Sequence Models.md": {
+      "size": 1915,
+      "tags": 2,
+      "links": 7
+    },
+    "_/(S) Konstrukte.md": {
+      "size": 814,
+      "tags": 1,
+      "links": 7
+    },
+    "_/Regularization.md": {
+      "size": 870,
+      "tags": 1,
+      "links": 4
+    },
+    "_/!Informatik.md": {
+      "size": 173,
+      "tags": 1,
+      "links": 1
+    },
+    "_/(P) Aufklärung.md": {
+      "size": 615,
+      "tags": 4,
+      "links": 2
+    },
+    "_/Informationstheorie.md": {
+      "size": 190,
+      "tags": 1,
+      "links": 2
+    },
+    "_/MotLern Wiki.md": {
+      "size": 10754,
+      "tags": 0,
+      "links": 0
+    },
+    "_/!Tagebuch.md": {
+      "size": 413,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Expra Paper Draft.md": {
+      "size": 6656,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Sinnstiftung.md": {
+      "size": 251,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Burge et al (2010).md": {
+      "size": 1471,
+      "tags": 3,
+      "links": 2
+    },
+    "_/Könnte anders sein.md": {
+      "size": 53,
+      "tags": 2,
+      "links": 0
+    },
+    "_/Cyber Espionage and Cyber Defence.md": {
+      "size": 2707,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Ernst & Bülthoff (2004).md": {
+      "size": 917,
+      "tags": 3,
+      "links": 2
+    },
+    "_/Lernen (Beweg).md": {
+      "size": 2018,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Schopenhauer, Arthur.md": {
+      "size": 1153,
+      "tags": 3,
+      "links": 5
+    },
+    "_/'Vom Subjekt zum Prpjekt'.md": {
+      "size": 1199,
+      "tags": 1,
+      "links": 2
+    },
+    "_/!Oldies.md": {
+      "size": 60,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Foucault, Michel.md": {
+      "size": 422,
+      "tags": 3,
+      "links": 1
+    },
+    "_/Hindsight.md": {
+      "size": 1134,
+      "tags": 2,
+      "links": 1
+    },
+    "_/Skizze objektive statt absolute Wahrheit.md": {
+      "size": 1002,
+      "tags": 2,
+      "links": 0
+    },
+    "_/!Psychologie.md": {
+      "size": 307,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Lasso Regression.md": {
+      "size": 688,
+      "tags": 1,
+      "links": 3
+    },
+    "_/'Krisis der europäischen WIssenschaften und die transzendentale Phänomenologie'.md": {
+      "size": 561,
+      "tags": 1,
+      "links": 6
+    },
+    "_/''Tech.md": {
+      "size": 219,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Bewegungswiss. Kenngrößen.md": {
+      "size": 1117,
+      "tags": 1,
+      "links": 6
+    },
+    "_/HA2a - Mentales Training.md": {
+      "size": 1164,
+      "tags": 1,
+      "links": 1
+    },
+    "_/(P) Postmoderne.md": {
+      "size": 589,
+      "tags": 4,
+      "links": 1
+    },
+    "_/ZSF wiki {(Neuro-)Prothesen und deren Aneignung}.md": {
+      "size": 2445,
+      "tags": 1,
+      "links": 0
+    },
+    "_/HA3 - Neuroprothesen.md": {
+      "size": 1200,
+      "tags": 1,
+      "links": 2
+    },
+    "_/ITPS_2019.md": {
+      "size": 939,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Weber, Max.md": {
+      "size": 414,
+      "tags": 3,
+      "links": 2
+    },
+    "_/'Methodologie der Sozialwissenschaften'.md": {
+      "size": 12583,
+      "tags": 1,
+      "links": 12
+    },
+    "_/Philo und Sozio in Frankfurt.md": {
+      "size": 155,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Forward Kinematics.md": {
+      "size": 683,
+      "tags": 1,
+      "links": 2
+    },
+    "_/LQG.md": {
+      "size": 930,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Was kann CogSci uns sagen.md": {
+      "size": 400,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Hierarchical Models.md": {
+      "size": 5034,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Konstrukt.md": {
+      "size": 166,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Meine Ziele.md": {
+      "size": 1300,
+      "tags": 1,
+      "links": 0
+    },
+    "_/'Die Lüge in der Politik'.md": {
+      "size": 5843,
+      "tags": 3,
+      "links": 5
+    },
+    "_/Körpersprache.md": {
+      "size": 298,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Tagebuch/29.01.23 - zwischenstand winterdepris.md": {
+      "size": 2855,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/25.12.22 - Direkt weiterstudieren.md": {
+      "size": 2159,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/15.10.22 - OWO.md": {
+      "size": 4357,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/16.07.22 - csd.md": {
+      "size": 579,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/Digitale Umgebung als Villa.md": {
+      "size": 809,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/05.01.23 - analytisch vs ökologisch + dekonstruktion.md": {
+      "size": 1896,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Tagebuch/09.07.22 - night after bday.md": {
+      "size": 732,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/05.09.22 - Pushing natures boundaries.md": {
+      "size": 2639,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/22.11.22 - Merck.md": {
+      "size": 538,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/28.08.22 - Gedankentagebuch.md": {
+      "size": 5559,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/24.12.22 - Weihnachten.md": {
+      "size": 2006,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/07.01.23 - Ich lov meine freunde.md": {
+      "size": 1770,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/26.09.22 - Zyniker.md": {
+      "size": 1401,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/02.07.22 - Juni Recap.md": {
+      "size": 7879,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Tagebuch/28.07.22 - Juli Recap.md": {
+      "size": 2516,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Tagebuch/13.12.22 - Gedankentagebuch.md": {
+      "size": 1333,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/11.09.22 - Nachm Reisen.md": {
+      "size": 1006,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/22.01.23 - Gedankentagebuch.md": {
+      "size": 3034,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/03.10.2022 - Rumänien und Zukunfstpläne.md": {
+      "size": 5741,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/24.06.22 - Can't be sad about reality.md": {
+      "size": 1007,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/06.08.2022 - Gedankentagebuch.md": {
+      "size": 4337,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/05.01.23 - Embodiment und Meine Soziologie.md": {
+      "size": 851,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Tagebuch/02.09.22 - Govcamp vie.md": {
+      "size": 6554,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/07.11.22 - crushing.md": {
+      "size": 472,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/30.10.22 - schon wieder scheisse.md": {
+      "size": 1567,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/08.01.23 - Gedankentagebuch.md": {
+      "size": 3382,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/27.05.22 - auf sie stehen.md": {
+      "size": 1877,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/18.07.22 - CogSci III.md": {
+      "size": 893,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/21.09.2022 - Phase; alles irrational.md": {
+      "size": 5039,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/05.01.23 - Ceddi - Anti analytisch und Anti pragmatisch.md": {
+      "size": 793,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/26.01.23 - Jens Kastner Bourdieu Morrison.md": {
+      "size": 571,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Tagebuch/11.09.22 - Ich habe mich verändert.md": {
+      "size": 848,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/27.08.22 - Dresden, Jimmy.md": {
+      "size": 1862,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/15.10.22 - Ende OWO.md": {
+      "size": 1000,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/24.06.22 - Unvereinbarkeit meiner Teile.md": {
+      "size": 1436,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/22.08.22 - Post-Highfield.md": {
+      "size": 5449,
+      "tags": 1,
+      "links": 0
+    },
+    "_/!Blog.md": {
+      "size": 237,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Beta Distribution.md": {
+      "size": 2649,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Stiles and Shimojo (2015).md": {
+      "size": 4969,
+      "tags": 3,
+      "links": 2
+    },
+    "_/Wissenschaft.md": {
+      "size": 576,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Ehemalige Meinung verwerfen.md": {
+      "size": 348,
+      "tags": 0,
+      "links": 0
+    },
+    "_/!Politik.md": {
+      "size": 540,
+      "tags": 1,
+      "links": 2
+    },
+    "_/(T) Marxismus.md": {
+      "size": 692,
+      "tags": 2,
+      "links": 0
+    },
+    "_/Neujahrvorsätze.md": {
+      "size": 34,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Johnson, Mark.md": {
+      "size": 966,
+      "tags": 3,
+      "links": 4
+    },
+    "_/Dekonstruktion bei KI.md": {
+      "size": 885,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Meeting 1 - 23.01.2023.md": {
+      "size": 1548,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Flanagan & Beltzner (2000).md": {
+      "size": 4737,
+      "tags": 3,
+      "links": 2
+    },
+    "_/Wie stehe ich zur Wissenschaft.md": {
+      "size": 1713,
+      "tags": 1,
+      "links": 3
+    },
+    "_/zwischen Natur und nichts.md": {
+      "size": 152,
+      "tags": 2,
+      "links": 0
+    },
+    "_/(P) Industrialisierung.md": {
+      "size": 604,
+      "tags": 4,
+      "links": 2
+    },
+    "_/Funktion und Struktur (Beweg).md": {
+      "size": 2237,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Kuhn, Thomas.md": {
+      "size": 772,
+      "tags": 4,
+      "links": 2
+    },
+    "_/Bewegung (bew).md": {
+      "size": 536,
+      "tags": 1,
+      "links": 2
+    },
+    "_/'Values and Uncertainties in the Predictions of Global Climate'.md": {
+      "size": 9392,
+      "tags": 2,
+      "links": 8
+    },
+    "_/Marr, David.md": {
+      "size": 466,
+      "tags": 3,
+      "links": 2
+    },
+    "_/Embodiment-Modelle auf Reduktionistische Modelle anwenden.md": {
+      "size": 1088,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Biomechanische. Messverfahren.md": {
+      "size": 848,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Support Vector Machine.md": {
+      "size": 1111,
+      "tags": 2,
+      "links": 4
+    },
+    "_/(T) Bewusstsein.md": {
+      "size": 700,
+      "tags": 2,
+      "links": 0
+    },
+    "_/Informationsverarbeitungsansatz.md": {
+      "size": 2723,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Frequentist Statistics.md": {
+      "size": 300,
+      "tags": 1,
+      "links": 2
+    },
+    "_/CogSciIII Abgabe.md": {
+      "size": 10784,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Illusion von Wissen.md": {
+      "size": 91,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Ressourcen für Embodied CogSci.md": {
+      "size": 2368,
+      "tags": 0,
+      "links": 4
+    },
+    "_/Eye movement statistics in humans are consistent with an optimal search strategy.md": {
+      "size": 4509,
+      "tags": 2,
+      "links": 4
+    },
+    "_/(S) Politik.md": {
+      "size": 612,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Kalman Filter - LQE.md": {
+      "size": 2200,
+      "tags": 1,
+      "links": 4
+    },
+    "_/CogSci as study of priors.md": {
+      "size": 733,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Statistische Wahrheitskonstrukteure.md": {
+      "size": 401,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Ecological Approach.md": {
+      "size": 1748,
+      "tags": 1,
+      "links": 5
+    },
+    "_/'Nonepistemic Values and the Multiple Goals of Science'.md": {
+      "size": 6951,
+      "tags": 2,
+      "links": 10
+    },
+    "_/Multisensory Perception.md": {
+      "size": 2128,
+      "tags": 2,
+      "links": 4
+    },
+    "_/Kritik an pop.md": {
+      "size": 815,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Web Retrieval.md": {
+      "size": 1581,
+      "tags": 2,
+      "links": 3
+    },
+    "_/Kognitivismus.md": {
+      "size": 273,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Ridge Regression.md": {
+      "size": 1391,
+      "tags": 1,
+      "links": 4
+    },
+    "_/(T) Postmodernismus.md": {
+      "size": 716,
+      "tags": 2,
+      "links": 0
+    },
+    "_/Problemaufriss (bew).md": {
+      "size": 412,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Postmoderne.md": {
+      "size": 310,
+      "tags": 2,
+      "links": 2
+    },
+    "_/(T) Wissenschaft.md": {
+      "size": 704,
+      "tags": 2,
+      "links": 0
+    },
+    "_/Crowdsourcing.md": {
+      "size": 2284,
+      "tags": 2,
+      "links": 6
+    },
+    "_/Text Classification.md": {
+      "size": 980,
+      "tags": 2,
+      "links": 6
+    },
+    "_/'In praise of Idleness'.md": {
+      "size": 2602,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Ständig mich selbst hinterfragen.md": {
+      "size": 1479,
+      "tags": 2,
+      "links": 1
+    },
+    "_/Neural Networks.md": {
+      "size": 620,
+      "tags": 2,
+      "links": 3
+    },
+    "_/Links to Bachelorarbeit.md": {
+      "size": 508,
+      "tags": 0,
+      "links": 4
+    },
+    "_/Brain Process not Teleological.md": {
+      "size": 792,
+      "tags": 3,
+      "links": 2
+    },
+    "_/Maßschneidern statt Verallgemeinern.md": {
+      "size": 1096,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Biomechanik Prinzipien.md": {
+      "size": 2022,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Natural Language Processing.md": {
+      "size": 286,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Computational Theory of Mind.md": {
+      "size": 183,
+      "tags": 2,
+      "links": 4
+    },
+    "_/(T) Psychoanalyse.md": {
+      "size": 708,
+      "tags": 2,
+      "links": 0
+    },
+    "_/'Science, Values, and the Value of Science'.md": {
+      "size": 9733,
+      "tags": 2,
+      "links": 11
+    },
+    "_/'Fact and Value'.md": {
+      "size": 7593,
+      "tags": 2,
+      "links": 9
+    },
+    "_/'Vision - The Philosophy and the Approach'.md": {
+      "size": 5972,
+      "tags": 1,
+      "links": 5
+    },
+    "_/Medien - Programmierter Unterricht.md": {
+      "size": 637,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Explanation vs Description.md": {
+      "size": 721,
+      "tags": 1,
+      "links": 5
+    },
+    "_/Bewegungslernen, Bewegungskontrolle, Koordinative Fähigkeiten.md": {
+      "size": 1324,
+      "tags": 1,
+      "links": 1
+    },
+    "_/(T) Metaphysik.md": {
+      "size": 696,
+      "tags": 2,
+      "links": 0
+    },
+    "_/!Wahrheit und Fake.md": {
+      "size": 322,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Latent-mixture Models.md": {
+      "size": 1103,
+      "tags": 1,
+      "links": 3
+    },
+    "_/(P) Hochmittelalter.md": {
+      "size": 618,
+      "tags": 4,
+      "links": 2
+    },
+    "_/''Schriftlich.md": {
+      "size": 283,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Pete Hip Hop.md": {
+      "size": 1310,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Resilient Critical Infrastructure.md": {
+      "size": 2179,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Information Warfare – From Doctrine to  Permanent Conflict.md": {
+      "size": 2583,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Engagementmöglichkeiten - political activism.md": {
+      "size": 2229,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Bewegungswissenschaft.md": {
+      "size": 1336,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Ernst & Banks (2002).md": {
+      "size": 1765,
+      "tags": 3,
+      "links": 2
+    },
+    "_/Consciousness of babies.md": {
+      "size": 124,
+      "tags": 1,
+      "links": 0
+    },
+    "_/(S) Kleine Erzählungen.md": {
+      "size": 908,
+      "tags": 1,
+      "links": 7
+    },
+    "_/Markov Chain Monte Carlo.md": {
+      "size": 3531,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Vorurteile.md": {
+      "size": 116,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Blogpost Kunst.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Abgabe Topics Battaglia.md": {
+      "size": 2740,
+      "tags": 3,
+      "links": 3
+    },
+    "_/Instruktion (Bewegungswissenschaften).md": {
+      "size": 1418,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Least Squares Linear Regression.md": {
+      "size": 1279,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Probleme mit Psychologie.md": {
+      "size": 2262,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Bewusstsein (Bewegungswissenschaft).md": {
+      "size": 907,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Generalized linear models.md": {
+      "size": 1700,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Durkheim, Emile.md": {
+      "size": 944,
+      "tags": 4,
+      "links": 2
+    },
+    "_/'Could a Neuroscientist Understand a Microprocessor'.md": {
+      "size": 314,
+      "tags": 1,
+      "links": 2
+    },
+    "_/(T) Analytische Philosophie.md": {
+      "size": 748,
+      "tags": 2,
+      "links": 0
+    },
+    "_/Cultural Violence.md": {
+      "size": 66,
+      "tags": 1,
+      "links": 0
+    },
+    "_/'Wahrheit und Politik'.md": {
+      "size": 11294,
+      "tags": 3,
+      "links": 6
+    },
+    "_/'Die Moral der Wissenschaft'.md": {
+      "size": 7372,
+      "tags": 2,
+      "links": 6
+    },
+    "_/Hyper-short-term Gedächtnis.md": {
+      "size": 2636,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Modulwahl.md": {
+      "size": 190,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Cultural Violence and Peace in Social Media.md": {
+      "size": 2350,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Boris Ideale Animation.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "_/(P) Moderne.md": {
+      "size": 615,
+      "tags": 4,
+      "links": 2
+    },
+    "_/Problem - The knowledge illusion.md": {
+      "size": 352,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Embodiment.md": {
+      "size": 444,
+      "tags": 1,
+      "links": 5
+    },
+    "_/Ratio vs. Subjkt.md": {
+      "size": 508,
+      "tags": 2,
+      "links": 1
+    },
+    "_/Ende des Faschismus in Spanien.md": {
+      "size": 600,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Methode - Modell Konstruieren.md": {
+      "size": 1114,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Motorische Entwicklung.md": {
+      "size": 5189,
+      "tags": 1,
+      "links": 2
+    },
+    "_/(S) Antimaterialismus.md": {
+      "size": 631,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Bulthaup, Peter.md": {
+      "size": 620,
+      "tags": 3,
+      "links": 3
+    },
+    "_/'Homage to Catalonia'.md": {
+      "size": 4024,
+      "tags": 1,
+      "links": 3
+    },
+    "_/System könne nicht von innen verändert werden.md": {
+      "size": 752,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Frankfurter Schule.md": {
+      "size": 1008,
+      "tags": 1,
+      "links": 8
+    },
+    "_/Meine Zielgruppe.md": {
+      "size": 546,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Argument Mining.md": {
+      "size": 4088,
+      "tags": 1,
+      "links": 10
+    },
+    "_/Haltlosigkeit dank Dekonstruktion bei Sozialen Beziehungen.md": {
+      "size": 2428,
+      "tags": 2,
+      "links": 1
+    },
+    "_/Beispiele Embodied.md": {
+      "size": 295,
+      "tags": 1,
+      "links": 0
+    },
+    "_/''Essays.md": {
+      "size": 504,
+      "tags": 1,
+      "links": 7
+    },
+    "_/HA9 - Walking Gait.md": {
+      "size": 1267,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Everything is connected.md": {
+      "size": 444,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Wahrheit.md": {
+      "size": 1036,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Classifiers (NLP).md": {
+      "size": 477,
+      "tags": 2,
+      "links": 7
+    },
+    "_/Was bedeutet die Wissenschaft für mich.md": {
+      "size": 397,
+      "tags": 0,
+      "links": 0
+    },
+    "_/(S) Wissenschaft.md": {
+      "size": 621,
+      "tags": 1,
+      "links": 4
+    },
+    "_/There is no truth.md": {
+      "size": 3052,
+      "tags": 1,
+      "links": 2
+    },
+    "_/(S) Ich.md": {
+      "size": 558,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Mixing.md": {
+      "size": 701,
+      "tags": 1,
+      "links": 0
+    },
+    "_/!SE.md": {
+      "size": 60027,
+      "tags": 1,
+      "links": 7
+    },
+    "_/Menschenbild und Perspektive.md": {
+      "size": 834,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Spinalmotorik.md": {
+      "size": 415,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Zu viele Kommunisten.md": {
+      "size": 1264,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Kausalität.md": {
+      "size": 180,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Probleme der Bewegungswissenschaften.md": {
+      "size": 958,
+      "tags": 2,
+      "links": 0
+    },
+    "_/Eigenartigkeit statt engineering - bei Kunst als auch Sport.md": {
+      "size": 3328,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Arschlachs/Beobachtungen.md": {
+      "size": 435,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/''Tagebuch''.md": {
+      "size": 83,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Arschlachs/Themen die mich beschäftig(t)en.md": {
+      "size": 46,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Arschlachs/Begriffe.md": {
+      "size": 37,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Arschlachs/Konstruktivismus.md": {
+      "size": 280,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/Ich bin ein Sandkorn.md": {
+      "size": 471,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/Ursachen für Depressionen.md": {
+      "size": 143,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/Philosophy of Mind.md": {
+      "size": 1501,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/Diskurs.md": {
+      "size": 2261,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/Mein Kopf.md": {
+      "size": 82,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Arschlachs/Selbsterfüllende Prophezeihung.md": {
+      "size": 1552,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/Subjektiv vs. Objektiv.md": {
+      "size": 139,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/Andere Menschen.md": {
+      "size": 1184,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Arschlachs/!To-Do.md": {
+      "size": 115,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/Lukas Depression.md": {
+      "size": 340,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Arschlachs/Im Moment Leben.md": {
+      "size": 1956,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Arschlachs/Krisen.md": {
+      "size": 980,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Arschlachs/Identität.md": {
+      "size": 1838,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Arschlachs/Sinn des Lebens.md": {
+      "size": 868,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Arschlachs/'fleeting'.md": {
+      "size": 225,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Arschlachs/Ich.md": {
+      "size": 263,
+      "tags": 0,
+      "links": 7
+    },
+    "_/Arschlachs/Philosophie.md": {
+      "size": 161,
+      "tags": 0,
+      "links": 6
+    },
+    "_/Arschlachs/Nicht-Krisen.md": {
+      "size": 796,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Arschlachs/Polarisierung.md": {
+      "size": 373,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/Lebensphilosophie.md": {
+      "size": 211,
+      "tags": 0,
+      "links": 4
+    },
+    "_/Arschlachs/Lebensentwurf.md": {
+      "size": 349,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Arschlachs/Strategien gegen Depressionen.md": {
+      "size": 1281,
+      "tags": 0,
+      "links": 4
+    },
+    "_/Arschlachs/Weltwahrnehmung.md": {
+      "size": 297,
+      "tags": 0,
+      "links": 4
+    },
+    "_/Arschlachs/!Things to Remember.md": {
+      "size": 3192,
+      "tags": 0,
+      "links": 3
+    },
+    "_/Arschlachs/Heimstätten-Zeit.md": {
+      "size": 1193,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Arschlachs/Projekte.md": {
+      "size": 382,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/!My Mind.md": {
+      "size": 1011,
+      "tags": 0,
+      "links": 8
+    },
+    "_/Arschlachs/Anthro-Sozio.md": {
+      "size": 184,
+      "tags": 0,
+      "links": 4
+    },
+    "_/Arschlachs/Politik.md": {
+      "size": 343,
+      "tags": 0,
+      "links": 6
+    },
+    "_/Arschlachs/'safe'.md": {
+      "size": 136,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Arschlachs/Freiheit.md": {
+      "size": 49,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Arschlachs/Spiritualität.md": {
+      "size": 275,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/Meine Kognitive Dissonanz.md": {
+      "size": 301,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/Metaphilosophie.md": {
+      "size": 289,
+      "tags": 0,
+      "links": 1
+    },
+    "_/Arschlachs/Ideologie.md": {
+      "size": 1198,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Arschlachs/Wie andere mich wahrnehmen.md": {
+      "size": 1296,
+      "tags": 0,
+      "links": 3
+    },
+    "_/'Begriff der Aufklärung'.md": {
+      "size": 4684,
+      "tags": 3,
+      "links": 8
+    },
+    "_/Illusion von Teleologie.md": {
+      "size": 856,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Was ich verstanden habe aber alle anderen nicht.md": {
+      "size": 854,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Bayesian Linear Regression.md": {
+      "size": 3878,
+      "tags": 1,
+      "links": 6
+    },
+    "_/Politik wie Markt.md": {
+      "size": 128,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Identität.md": {
+      "size": 282,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Commits.md": {
+      "size": 304,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Bayesianisches Probabilistisches Modell.md": {
+      "size": 668,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Linear Regression.md": {
+      "size": 1414,
+      "tags": 1,
+      "links": 5
+    },
+    "_/!Soziologie.md": {
+      "size": 526,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Linear Control Theory.md": {
+      "size": 1578,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Begriffsanalyse.md": {
+      "size": 890,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Unmanned Systems - The Robotic Revolution as a Challenge for Arms Control.md": {
+      "size": 3527,
+      "tags": 1,
+      "links": 3
+    },
+    "_/Motor Learning.md": {
+      "size": 800,
+      "tags": 1,
+      "links": 3
+    },
+    "_/'Nietzsche, die Genealogie, die Historie'.md": {
+      "size": 6619,
+      "tags": 3,
+      "links": 11
+    },
+    "_/Erlebt ist anders als vorgestellt.md": {
+      "size": 1364,
+      "tags": 1,
+      "links": 1
+    },
+    "_/!CogSci.md": {
+      "size": 616,
+      "tags": 1,
+      "links": 4
+    },
+    "_/Ohlyturm.md": {
+      "size": 1627,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Sampling.md": {
+      "size": 780,
+      "tags": 1,
+      "links": 0
+    },
+    "!Personen.md": {
+      "size": 267,
+      "tags": 1,
+      "links": 0
+    },
+    "_transactions.md": {
+      "size": 6042,
+      "tags": 0,
+      "links": 0
+    },
+    "!A.md": {
+      "size": 329,
+      "tags": 1,
+      "links": 0
+    },
+    "Z - Obsidian.md": {
+      "size": 1218,
+      "tags": 0,
+      "links": 1
+    },
+    ",Wochenplan.md": {
+      "size": 218,
+      "tags": 0,
+      "links": 0
+    },
+    "README.md": {
+      "size": 660,
+      "tags": 1,
+      "links": 4
+    },
+    "!TODO.md": {
+      "size": 939,
+      "tags": 1,
+      "links": 2
+    },
+    "!Inbox.md": {
+      "size": 206,
+      "tags": 1,
+      "links": 0
+    },
+    "Universität/2_CogSciI/README.md": {
+      "size": 11880,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/2_CogSciI/tools_setup.md": {
+      "size": 13407,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/3_CogSciII/memory_ACT-R.md": {
+      "size": 1049,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/3_SE/Mitschrieb.md": {
+      "size": 59957,
+      "tags": 0,
+      "links": 6
+    },
+    "Universität/3_SE/SEUB01.md": {
+      "size": 1625,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/3_SE/SEUB10.md": {
+      "size": 835,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/3_SE/SEUB12.md": {
+      "size": 507,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/3_SE/SEUB5.md": {
+      "size": 1876,
+      "tags": 0,
+      "links": 1
+    },
+    "Universität/3_SE/SEUB7.md": {
+      "size": 2191,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/3_SE/SEUB8.md": {
+      "size": 1488,
+      "tags": 0,
+      "links": 2
+    },
+    "Universität/2_AuD/AuD_Notizen/README.md": {
+      "size": 28599,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/2_CogSciI/notebooks/week_4_before_the_seminar.md": {
+      "size": 4672,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/2_CogSciI/notebooks/week_8_before_the_seminar.md": {
+      "size": 4429,
+      "tags": 0,
+      "links": 1
+    },
+    "Universität/3_CogSciII/Prolog/Terminologie.md": {
+      "size": 735,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/4_CogSciIII/handeln/README.md": {
+      "size": 934,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/4_CogSciIII/handeln/tools_setup.md": {
+      "size": 4509,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/4_Expra/visibility_maps/README.md": {
+      "size": 6778,
+      "tags": 0,
+      "links": 1
+    },
+    "Universität/3_SE/Klausur/Aufgabensammlung/Antworten.md": {
+      "size": 7815,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/4_CogSciIII/handeln/FittsLawDemoExp/Readme.md": {
+      "size": 3071,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/4_CogSciIII/handeln/Anwaltskanzlei/README.md": {
+      "size": 631,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/4_CogSciIII/handeln/Anwaltskanzlei/README.odf.md": {
+      "size": 22979,
+      "tags": 1,
+      "links": 0
+    },
+    "Universität/4_CogSciIII/handeln/FittsLawDemoExp/data/placeholder.md": {
+      "size": 65,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/idna-3.4.dist-info/LICENSE.md": {
+      "size": 1523,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/jupyter_server-1.23.3.dist-info/COPYING.md": {
+      "size": 2885,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/pyzmq-24.0.1.dist-info/AUTHORS.md": {
+      "size": 4810,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/seaborn-0.12.1.dist-info/LICENSE.md": {
+      "size": 1491,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/de_core_news_sm/de_core_news_sm-3.4.0/README.md": {
+      "size": 31174,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/en_core_web_md/en_core_web_md-3.4.1/README.md": {
+      "size": 2745,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/en_core_web_sm/en_core_web_sm-3.4.1/README.md": {
+      "size": 2587,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/es_core_news_sm/es_core_news_sm-3.4.0/README.md": {
+      "size": 29800,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/ipykernel-6.17.1.dist-info/licenses/COPYING.md": {
+      "size": 2832,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/jupyter_client-7.4.7.dist-info/licenses/COPYING.md": {
+      "size": 2885,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/jupyter_core-5.0.0.dist-info/licenses/COPYING.md": {
+      "size": 2932,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/jupyter_server/i18n/README.md": {
+      "size": 5731,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/nbconvert/templates/README.md": {
+      "size": 307,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/nbformat-5.7.0.dist-info/licenses/COPYING.md": {
+      "size": 2885,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/langcodes/tests/README.md": {
+      "size": 239,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/soupsieve-2.3.2.post1.dist-info/license_files/LICENSE.md": {
+      "size": 1096,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/traitlets-5.5.0.dist-info/licenses/COPYING.md": {
+      "size": 2954,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/nbconvert/templates/skeleton/README.md": {
+      "size": 510,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/scipy/fft/_pocketfft/LICENSE.md": {
+      "size": 1498,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/debugpy/_vendored/pydevd/pydevd_plugins/extensions/README.md": {
+      "size": 1183,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Sportmotorische Tests.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Embodiment mit COmputational THeory integrierbar.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Zweitstudium.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Adversarial Attacks.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "_/QA-GNN.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 4
+    },
+    "_/Knowledge-based QA.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 4
+    },
+    "_/CogSci naturalisiert Sozi Phänomene.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Multi-Domain QA.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 2
+    },
+    "_/'In defence of the value free ideal'.md": {
+      "size": 6125,
+      "tags": 2,
+      "links": 14
+    },
+    "_/Abgabe Topics Samad.md": {
+      "size": 2554,
+      "tags": 3,
+      "links": 3
+    },
+    "_/Objektive Kunst.md": {
+      "size": 151,
+      "tags": 1,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/huggingface_hub/templates/datasetcard_template.md": {
+      "size": 2721,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/huggingface_hub/templates/modelcard_template.md": {
+      "size": 6469,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/pyarrow/tests/data/orc/README.md": {
+      "size": 934,
+      "tags": 0,
+      "links": 0
+    },
+    "Universität/5_NLP4Web/Aufgaben/Home_Exercise_6/results/README.md": {
+      "size": 1033,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Untitled.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Pluralismus Problem.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "_/'A tapestry of values'.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 6
+    },
+    "_/von spezifischer kritik zu genereller theorie.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Tagebuch/10.02.23 - Cant chill.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Beispielfragen Klausur.md": {
+      "size": 4726,
+      "tags": 1,
+      "links": 9
+    },
+    "_/Ito & Gomi (2020).md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
+    },
+    "_/Aufschrieb Beweg.md": {
+      "size": 9439,
+      "tags": 1,
+      "links": 3
+    },
+    "Universität/6_BA/affected-pointing/README.md": {
+      "size": 384,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Tagebuch/19.02.23 - Gedankentagebuch.md": {
+      "size": 2042,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Klausurvorbereitung NLP4Web.md": {
+      "size": 4622,
+      "tags": 2,
+      "links": 5
+    },
+    "_/Syntax (linguiscs).md": {
+      "size": 1636,
+      "tags": 2,
+      "links": 4
+    },
+    "_/Zielorientiert vs Selbstorganisiert.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 7
+    },
+    "_/Zentralismus vs Föderalismus.md": {
+      "size": 178,
+      "tags": 1,
+      "links": 1
+    },
+    "_/Klausurvorbereitung ITPS.md": {
+      "size": 19427,
+      "tags": 1,
+      "links": 29
+    },
+    "_/Law vs practice.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "_/Konflikt und Kritik.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 2
+    },
+    "_/Gedächtnisprotokoll Klausur.md": {
+      "size": 2318,
+      "tags": 0,
+      "links": 0
+    },
+    "_/Bachelorarbeit Kritik.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "_/,Privacy.md": {
+      "size": 1371,
+      "tags": 0,
+      "links": 0
+    },
+    "_transactions.sync-conflict-20230307-163051-MDNW4Z4.md": {
+      "size": 5931,
+      "tags": 0,
+      "links": 0
+    }
+  },
+  "commitTypes": {
+    "/": {
+      "Refactor": 42,
+      "Create": 93,
+      "Link": 97,
+      "Expand": 58
+    }
+  },
+  "dailyCommits": {
+    "/": {
+      "0": 1,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 7,
+      "9": 10,
+      "10": 38,
+      "11": 16,
+      "12": 31,
+      "13": 36,
+      "14": 86,
+      "15": 21,
+      "16": 13,
+      "17": 5,
+      "18": 15,
+      "19": 4,
+      "20": 1,
+      "21": 6,
+      "22": 0,
+      "23": 0
+    }
+  },
+  "weeklyCommits": {
+    "/": {
+      "Mon": 101,
+      "Tue": 75,
+      "Wed": 20,
+      "Thu": 37,
+      "Fri": 29,
+      "Sat": 0,
+      "Sun": 28
+    }
+  },
+  "recentCommits": {
+    "/": {
+      "Expanded": [
+        "<a class=\"internal-link\" href=\"_ledger.md\"> _ledger </a>",
+        "<a class=\"internal-link\" href=\"_transactions.md\"> _transactions </a>",
+        "<a class=\"internal-link\" href=\"_/Hyper-short-term Gedächtnis.md\"> Hyper-short-term Gedächtnis </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Gedächtnisprotokoll Klausur.md\"> Gedächtnisprotokoll Klausur </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Tagebuch/29.01.23 - zwischenstand winterdepris.md\"> 29.01.23 - zwischenstand winterdepris </a>",
+        "<a class=\"internal-link\" href=\"_/Question Answering.md\"> Question Answering </a>",
+        "<a class=\"internal-link\" href=\"_/Question Answering.md\"> Question Answering </a>",
+        "<a class=\"internal-link\" href=\"_/Question Answering.md\"> Question Answering </a>",
+        "<a class=\"internal-link\" href=\"_/Question Answering.md\"> Question Answering </a>",
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/Abgabe Topics Samad.md\"> Abgabe Topics Samad </a>",
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb.md\"> Aufschrieb </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb.md\"> Aufschrieb </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb.md\"> Aufschrieb </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb.md\"> Aufschrieb </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb.md\"> Aufschrieb </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb.md\"> Aufschrieb </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb.md\"> Aufschrieb </a>",
+        "<a class=\"internal-link\" href=\"_/Beispielfragen Klausur.md\"> Beispielfragen Klausur </a>",
+        "<a class=\"internal-link\" href=\"_/Beispielfragen Klausur.md\"> Beispielfragen Klausur </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb.md\"> Aufschrieb </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb Beweg.md\"> Aufschrieb Beweg </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb Beweg.md\"> Aufschrieb Beweg </a>",
+        "<a class=\"internal-link\" href=\"_/Beispielfragen Klausur.md\"> Beispielfragen Klausur </a>",
+        "<a class=\"internal-link\" href=\"_/Beispielfragen Klausur.md\"> Beispielfragen Klausur </a>",
+        "<a class=\"internal-link\" href=\"_/Force applied to mouse experiment.md\"> Force applied to mouse experiment </a>",
+        "<a class=\"internal-link\" href=\"_/Beispielfragen Klausur.md\"> Beispielfragen Klausur </a>",
+        "<a class=\"internal-link\" href=\"_/Beispielfragen Klausur.md\"> Beispielfragen Klausur </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb Beweg.md\"> Aufschrieb Beweg </a>",
+        "<a class=\"internal-link\" href=\"_/Tagebuch/19.02.23 - Gedankentagebuch.md\"> 19.02.23 - Gedankentagebuch </a>",
+        "<a class=\"internal-link\" href=\"_/Information Retrieval.md\"> Information Retrieval </a>",
+        "<a class=\"internal-link\" href=\"_/Information Retrieval.md\"> Information Retrieval </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung NLP4Web.md\"> Klausurvorbereitung NLP4Web </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung NLP4Web.md\"> Klausurvorbereitung NLP4Web </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung NLP4Web.md\"> Klausurvorbereitung NLP4Web </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung NLP4Web.md\"> Klausurvorbereitung NLP4Web </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung NLP4Web.md\"> Klausurvorbereitung NLP4Web </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung NLP4Web.md\"> Klausurvorbereitung NLP4Web </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>"
+      ],
+      "Created": [
+        "<a class=\"internal-link\" href=\"_transactions.sync-conflict-20230307-163051-MDNW4Z4.md\"> _transactions.sync-conflict-20230307-163051-MDNW4Z4 </a>",
+        "<a class=\"internal-link\" href=\"_/,Privacy.sync-conflict-20230307-162940-7CIGRI6.md\"> ,Privacy.sync-conflict-20230307-162940-7CIGRI6 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 2.md\"> Untitled 2 </a>",
+        "<a class=\"internal-link\" href=\"_/,Privacy.sync-conflict-20230302-114223-7CIGRI6.md\"> ,Privacy.sync-conflict-20230302-114223-7CIGRI6 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 2.md\"> Untitled 2 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 2.md\"> Untitled 2 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 2.md\"> Untitled 2 </a>",
+        "<a class=\"internal-link\" href=\"_/Chalet.md\"> Chalet </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 2.md\"> Untitled 2 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 2.md\"> Untitled 2 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 2.md\"> Untitled 2 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 2.md\"> Untitled 2 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Securitisation].md\"> Securitisation] </a>",
+        "<a class=\"internal-link\" href=\"_/Verification.md\"> Verification </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Tagebuch/19.02.23 - Gedankentagebuch.md\"> 19.02.23 - Gedankentagebuch </a>",
+        "<a class=\"internal-link\" href=\"_/Tmp.md\"> Tmp </a>",
+        "<a class=\"internal-link\" href=\"Universität/6_BA/affected-pointing/README.md\"> README </a>",
+        "<a class=\"internal-link\" href=\"_/Ito & Gomi (2020).md\"> Ito & Gomi (2020) </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Universität/5_NLP4Web/Aufgaben/Home_Exercise_6/results/README.md\"> README </a>",
+        "<a class=\"internal-link\" href=\"Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/pyarrow/tests/data/orc/README.md\"> README </a>",
+        "<a class=\"internal-link\" href=\"Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/huggingface_hub/templates/modelcard_template.md\"> modelcard_template </a>",
+        "<a class=\"internal-link\" href=\"Universität/5_NLP4Web/Aufgaben/nlp4web/lib/python3.9/site-packages/huggingface_hub/templates/datasetcard_template.md\"> datasetcard_template </a>",
+        "<a class=\"internal-link\" href=\"_/Objektive Kunst.md\"> Objektive Kunst </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"_/Multi-Domain QA.md\"> Multi-Domain QA </a>",
+        "<a class=\"internal-link\" href=\"Universität/2_CogSciI/README.md\"> README </a>",
+        "<a class=\"internal-link\" href=\"Universität/2_CogSciI/tools_setup.md\"> tools_setup </a>",
+        "<a class=\"internal-link\" href=\"Universität/3_CogSciII/memory_ACT-R.md\"> memory_ACT-R </a>",
+        "<a class=\"internal-link\" href=\"Universität/3_SE/Mitschrieb.md\"> Mitschrieb </a>",
+        "<a class=\"internal-link\" href=\"Universität/3_SE/SEUB01.md\"> SEUB01 </a>",
+        "<a class=\"internal-link\" href=\"Universität/3_SE/SEUB10.md\"> SEUB10 </a>",
+        "<a class=\"internal-link\" href=\"Universität/3_SE/SEUB12.md\"> SEUB12 </a>",
+        "<a class=\"internal-link\" href=\"Universität/3_SE/SEUB5.md\"> SEUB5 </a>",
+        "<a class=\"internal-link\" href=\"Universität/3_SE/SEUB7.md\"> SEUB7 </a>"
+      ],
+      "Renamed": [
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/Tagebuch/10.02.23 - Cant chill.md\"> 10.02.23 - Cant chill </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb Beweg.md\"> Aufschrieb Beweg </a>",
+        "<a class=\"internal-link\" href=\"_/Syntax (linguiscs).md\"> Syntax (linguiscs) </a>",
+        "<a class=\"internal-link\" href=\"_/Zentralismus vs Föderalismus.md\"> Zentralismus vs Föderalismus </a>",
+        "<a class=\"internal-link\" href=\"_/BAUERNHOF.md\"> BAUERNHOF </a>",
+        "<a class=\"internal-link\" href=\"_/Law vs practice.md\"> Law vs practice </a>",
+        "<a class=\"internal-link\" href=\"_/,Privacy.md\"> ,Privacy </a>"
+      ],
+      "Tagged": [
+        "<a class=\"internal-link\" href=\"_/Sportmotorische Tests.md\"> Sportmotorische Tests </a>",
+        "<a class=\"internal-link\" href=\"Universität/4_CogSciIII/handeln/Anwaltskanzlei/README.odf.md\"> README.odf </a>",
+        "<a class=\"internal-link\" href=\"_/Testtheorie.md\"> Testtheorie </a>",
+        "<a class=\"internal-link\" href=\"_/Embodiment mit COmputational THeory integrierbar.md\"> Embodiment mit COmputational THeory integrierbar </a>",
+        "<a class=\"internal-link\" href=\"_/Zweitstudium.md\"> Zweitstudium </a>",
+        "<a class=\"internal-link\" href=\"_/Adversarial Attacks.md\"> Adversarial Attacks </a>",
+        "<a class=\"internal-link\" href=\"_/Knowledge-based QA.md\"> Knowledge-based QA </a>",
+        "<a class=\"internal-link\" href=\"_/QA-GNN.md\"> QA-GNN </a>",
+        "<a class=\"internal-link\" href=\"_/CogSci naturalisiert Sozi Phänomene.md\"> CogSci naturalisiert Sozi Phänomene </a>",
+        "<a class=\"internal-link\" href=\"_/Multi-Domain QA.md\"> Multi-Domain QA </a>",
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/Abgabe Topics Samad.md\"> Abgabe Topics Samad </a>",
+        "<a class=\"internal-link\" href=\"_/Objektive Kunst.md\"> Objektive Kunst </a>",
+        "<a class=\"internal-link\" href=\"Universität/5_NLP4Web/Aufgaben/Home_Exercise_6/results/README.md\"> README </a>",
+        "<a class=\"internal-link\" href=\"_/Pluralismus Problem.md\"> Pluralismus Problem </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/von spezifischer kritik zu genereller theorie.md\"> von spezifischer kritik zu genereller theorie </a>",
+        "<a class=\"internal-link\" href=\"_/Tagebuch/10.02.23 - Cant chill.md\"> 10.02.23 - Cant chill </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb.md\"> Aufschrieb </a>",
+        "<a class=\"internal-link\" href=\"_/Beispielfragen Klausur.md\"> Beispielfragen Klausur </a>",
+        "<a class=\"internal-link\" href=\"_/Tagebuch/19.02.23 - Gedankentagebuch.md\"> 19.02.23 - Gedankentagebuch </a>",
+        "<a class=\"internal-link\" href=\"_/Tagebuch/19.02.23 - Gedankentagebuch.md\"> 19.02.23 - Gedankentagebuch </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung NLP4Web.md\"> Klausurvorbereitung NLP4Web </a>",
+        "<a class=\"internal-link\" href=\"_/Zielorientiert vs Selbstorganisiert.md\"> Zielorientiert vs Selbstorganisiert </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Dekonstruktion bei KI.md\"> Dekonstruktion bei KI </a>",
+        "<a class=\"internal-link\" href=\"_/Law vs practice.md\"> Law vs practice </a>",
+        "<a class=\"internal-link\" href=\"_/Konflikt und Kritik.md\"> Konflikt und Kritik </a>"
+      ],
+      "Refactored": [
+        "<a class=\"internal-link\" href=\"_/Question Answering.md\"> Question Answering </a>",
+        "<a class=\"internal-link\" href=\"_/Question Answering.md\"> Question Answering </a>",
+        "<a class=\"internal-link\" href=\"_/Question Answering.md\"> Question Answering </a>",
+        "<a class=\"internal-link\" href=\"_/Beispielfragen Klausur.md\"> Beispielfragen Klausur </a>"
+      ],
+      "Deleted": [
+        "<a class=\"internal-link\" href=\"_/Testtheorie.md\"> Testtheorie </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"_/aaaa.md\"> aaaa </a>",
+        "<a class=\"internal-link\" href=\"_/Servus.md\"> Servus </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/Tmp.md\"> Tmp </a>",
+        "<a class=\"internal-link\" href=\"_/Sequence Labeling.md\"> Sequence Labeling </a>",
+        "<a class=\"internal-link\" href=\"_/Boolean Retrieval.md\"> Boolean Retrieval </a>",
+        "<a class=\"internal-link\" href=\"_/Inverted Index.md\"> Inverted Index </a>",
+        "<a class=\"internal-link\" href=\"_/Ranked Retrieval.md\"> Ranked Retrieval </a>",
+        "<a class=\"internal-link\" href=\"_/Verification.md\"> Verification </a>",
+        "<a class=\"internal-link\" href=\"_/Securitisation].md\"> Securitisation] </a>",
+        "<a class=\"internal-link\" href=\"_/Chalet.md\"> Chalet </a>",
+        "<a class=\"internal-link\" href=\"_/BAUERNHOF.md\"> BAUERNHOF </a>",
+        "<a class=\"internal-link\" href=\"_/NORDHESSEN.md\"> NORDHESSEN </a>",
+        "<a class=\"internal-link\" href=\"_/Comfort Ferienhaus.md\"> Comfort Ferienhaus </a>",
+        "<a class=\"internal-link\" href=\"_/Chalet.md\"> Chalet </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 2.md\"> Untitled 2 </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/,Privacy.sync-conflict-20230302-114223-7CIGRI6.md\"> ,Privacy.sync-conflict-20230302-114223-7CIGRI6 </a>",
+        "<a class=\"internal-link\" href=\"_/,Privacy.md\"> ,Privacy </a>"
+      ],
+      "Linked": [
+        "<a class=\"internal-link\" href=\"_/Illusion von Einheitlichem Bewusstsein.md\"> Illusion von Einheitlichem Bewusstsein </a>",
+        "<a class=\"internal-link\" href=\"_/Konflikt und Kritik.md\"> Konflikt und Kritik </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Klausurvorbereitung ITPS.md\"> Klausurvorbereitung ITPS </a>",
+        "<a class=\"internal-link\" href=\"_/Sportmotorische Tests.md\"> Sportmotorische Tests </a>",
+        "<a class=\"internal-link\" href=\"Universität/4_Expra/visibility_maps/README.md\"> README </a>",
+        "<a class=\"internal-link\" href=\"Universität/3_SE/SEUB8.md\"> SEUB8 </a>",
+        "<a class=\"internal-link\" href=\"Universität/3_SE/SEUB5.md\"> SEUB5 </a>",
+        "<a class=\"internal-link\" href=\"Universität/3_SE/Mitschrieb.md\"> Mitschrieb </a>",
+        "<a class=\"internal-link\" href=\"Universität/2_CogSciI/notebooks/week_8_before_the_seminar.md\"> week_8_before_the_seminar </a>",
+        "<a class=\"internal-link\" href=\"_/Adversarial Attacks.md\"> Adversarial Attacks </a>",
+        "<a class=\"internal-link\" href=\"_/Question Answering.md\"> Question Answering </a>",
+        "<a class=\"internal-link\" href=\"_/Knowledge-based QA.md\"> Knowledge-based QA </a>",
+        "<a class=\"internal-link\" href=\"_/QA-GNN.md\"> QA-GNN </a>",
+        "<a class=\"internal-link\" href=\"_/Question Answering.md\"> Question Answering </a>",
+        "<a class=\"internal-link\" href=\"_/Multi-Domain QA.md\"> Multi-Domain QA </a>",
+        "<a class=\"internal-link\" href=\"_/Question Answering.md\"> Question Answering </a>",
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/'In defence of the value free ideal'.md\"> 'In defence of the value free ideal' </a>",
+        "<a class=\"internal-link\" href=\"_/Abgabe Topics Samad.md\"> Abgabe Topics Samad </a>",
+        "<a class=\"internal-link\" href=\"_/!Topics - Multisensory perception and action.md\"> !Topics - Multisensory perception and action </a>",
+        "<a class=\"internal-link\" href=\"_/Erster Weltkrieg.md\"> Erster Weltkrieg </a>",
+        "<a class=\"internal-link\" href=\"_/Pluralismus Problem.md\"> Pluralismus Problem </a>",
+        "<a class=\"internal-link\" href=\"_/Untitled 1.md\"> Untitled 1 </a>",
+        "<a class=\"internal-link\" href=\"_/'A tapestry of values'.md\"> 'A tapestry of values' </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb.md\"> Aufschrieb </a>",
+        "<a class=\"internal-link\" href=\"_/Aufschrieb.md\"> Aufschrieb </a>",
+        "<a class=\"internal-link\" href=\"_/Beispielfragen Klausur.md\"> Beispielfragen Klausur </a>",
+        "<a class=\"internal-link\" href=\"_/Beispielfragen Klausur.md\"> Beispielfragen Klausur </a>",
+        "<a class=\"internal-link\" href=\"_/Beispielfragen Klausur.md\"> Beispielfragen Klausur </a>",
+        "<a class=\"internal-link\" href=\"_/Beispielfragen Klausur.md\"> Beispielfragen Klausur </a>",
+        "<a class=\"internal-link\" href=\"_/Embodiment-Modelle auf Reduktionistische Modelle anwenden.md\"> Embodiment-Modelle auf Reduktionistische Modelle anwenden </a>",
+        "<a class=\"internal-link\" href=\"_/Beispielfragen Klausur.md\"> Beispielfragen Klausur </a>",
+        "<a class=\"internal-link\" href=\"_/Ito & Gomi (2020).md\"> Ito & Gomi (2020) </a>"
+      ],
+      "Removed Tags from": [
+        "<a class=\"internal-link\" href=\"_/Tagebuch/19.02.23 - Gedankentagebuch.md\"> 19.02.23 - Gedankentagebuch </a>"
+      ],
+      "Removed Links from": [
+        "<a class=\"internal-link\" href=\"_/Text Classification.md\"> Text Classification </a>",
+        "<a class=\"internal-link\" href=\"_/Classifiers (NLP).md\"> Classifiers (NLP) </a>",
+        "<a class=\"internal-link\" href=\"_/Information Retrieval.md\"> Information Retrieval </a>",
+        "<a class=\"internal-link\" href=\"_/Information Retrieval.md\"> Information Retrieval </a>",
+        "<a class=\"internal-link\" href=\"_/Word Embeddings.md\"> Word Embeddings </a>",
+        "<a class=\"internal-link\" href=\"-Recherche.md\"> -Recherche </a>"
+      ]
+    }
+  },
+  "ignoreList": [],
+  "divWidth": 50,
+  "divHeight": 400,
+  "divAlign": "left",
+  "topCommits": 2,
+  "commitThreshold": 2000,
+  "commitPerc": 15,
+  "fillColor": "rgba(51, 153, 204, 0.4)",
+  "borderColor": "rgba(51, 153, 204, 1)",
+  "gridColor": "grey"
+}
