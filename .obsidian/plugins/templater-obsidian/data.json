@@ -3,18 +3,27 @@
   "templates_folder": "Templates",
   "templates_pairs": [
     [
-      "Launch firefox",
-      "Firefox"
+      "pdfpages",
+      "pdfinfo Reads/Tech/2018-06-27-deceived-by-design-final.pdf | awk '/^Pages:/ {print $2}'"
+    ],
+    [
+      "echo",
+      "ls /usr/bin"
+    ],
+    [
+      "help",
+      "/usr/bin/pdfinfo --help"
     ]
   ],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
-  "shell_path": "",
+  "shell_path": "/bin/bash",
   "user_scripts_folder": "",
   "enable_folder_templates": false,
   "folder_templates": [],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Templates/+Beispiel.md",
     "Templates/+Definition.md",
