@@ -4,6 +4,7 @@ date: <% tp.file.creation_date("YYYY-MM-DD") %>
 aliases: 
 ---
 Thema:: [[(<% tp.file.cursor(1) %>]]
+Person:: [[<%tp.file.cursor(2) %>]]
 
 ###### Quellen 
 - <% tp.file.cursor(3) %>
