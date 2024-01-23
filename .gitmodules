@@ -7,3 +7,6 @@
 [submodule ".obsidian/plugins/obsidian-timelines-parse-dates"]
 	path = .obsidian/plugins/obsidian-timelines-parse-dates
 	url = https://github.com/croniev/obsidian-timelines-parse-dates
+[submodule ".obsidian/plugins/obsidian-utils"]
+	path = .obsidian/plugins/obsidian-utils
+	url = https://github.com/croniev/obsidian-utils
