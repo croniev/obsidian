@@ -1,7 +1,7 @@
 ---
 tags: Reads
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
-seiten: <% tp.file.cursor(0) %>
+seiten: <% tp.file.cursor(0) %> 
 aliases: 
 ---
 Thema:: [[(<% tp.file.cursor(2) %>]]
