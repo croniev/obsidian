@@ -3,16 +3,8 @@
   "templates_folder": "Templates",
   "templates_pairs": [
     [
-      "pdfpages",
-      "pdfinfo Reads/Tech/2018-06-27-deceived-by-design-final.pdf | awk '/^Pages:/ {print $2}'"
-    ],
-    [
-      "echo",
-      "ls /usr/bin"
-    ],
-    [
-      "help",
-      "/usr/bin/pdfinfo --help"
+      "curl",
+      "curl $url"
     ]
   ],
   "trigger_on_file_creation": true,
