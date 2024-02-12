@@ -12,6 +12,7 @@
     "editor:toggle-numbered-list",
     "templater-obsidian:create-new-note-from-template",
     "editor:toggle-checklist-status",
+    "obsidian-footnotes:insert-autonumbered-footnote",
     "editor:toggle-code",
     "editor:toggle-strikethrough",
     "editor:toggle-highlight",
@@ -19,7 +20,6 @@
     "editor:undo",
     "editor:redo",
     "note-composer:split-file",
-    "timelines-parse-dates:parse-dates",
     "add-page-reference:add-reference",
     "add-page-reference:increase-page",
     "editor:configure-toolbar"

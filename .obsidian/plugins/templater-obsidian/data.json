@@ -5,6 +5,10 @@
     [
       "curl",
       "curl $url"
+    ],
+    [
+      "which",
+      "echo $PATH"
     ]
   ],
   "trigger_on_file_creation": true,

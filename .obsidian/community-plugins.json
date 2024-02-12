@@ -14,9 +14,9 @@
   "obsidian-style-settings",
   "obsidian-reminder-plugin",
   "obsidian-advanced-uri",
-  "croniev-bookkeeping",
   "obsidian-latex-suite",
   "obsidian-emoji-toolbar",
   "execute-code",
-  "obsidian-utils"
+  "obsidian-utils",
+  "croniev-bookkeeping"
 ]
