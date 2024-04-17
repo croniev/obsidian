@@ -1,11 +1,11 @@
 <%* const tfile = await tp.system.suggester((item) => item.basename + '.' + item.extension, app.vault.getFiles().filter((file) => file.extension == "pdf"))
 const splits = tfile.basename.split('_')
-const isSplit = splits.length == 3
+const isSplit = splits.length >= 3
 const pdfjs = await tp.obsidian.loadPdfJs()
 const pdfDoc = await pdfjs.getDocument(app.vault.getResourcePath(tfile)).promise 
 let title = tp.file.title
 if (title.startsWith("Untitled")) {
-	try{await tp.file.rename(`'${isSplit ? splits[2] : splits[0]}'`);}
+	try{await tp.file.rename(`'${isSplit ? splits.slice(2).join(" ") : splits[0]}'`);}
 	catch(e){await tp.file.rename('Duplicate!')}
 } %>---
 tags: Reads
