@@ -13,7 +13,7 @@ tags: Knowledge
 ## <font color="Teal">Knowledge</font>
 ```dataview
 table Thema, date
-FROM !#Person AND !#Reads AND !#lev
+FROM !#Person AND !#Reads AND !#lev AND !"Templates"
 WHERE contains(join(thema), "!Politik") OR contains(join(thema), "(Pol)")
 SORT date asc
 ```

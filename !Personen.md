@@ -7,7 +7,7 @@ tags=Person
 startDate= -1000
 endDate= 3000,10,10
 divHeight=300
-minDate= -2000
+minDate= -600
 maxDate= 3500
 ```
 [[!Geschichte]]
