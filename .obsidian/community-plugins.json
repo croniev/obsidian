@@ -1,12 +1,8 @@
 [
-  "dataview",
   "obsidian-footnotes",
-  "quickadd",
-  "table-editor-obsidian",
   "obsidian-kanban",
   "text-snippets-obsidian",
   "templater-obsidian",
-  "obsidian-timelines",
   "timelines-parse-dates",
   "obsidian-croniev-bookkeeping",
   "cmdr",
@@ -15,8 +11,14 @@
   "obsidian-reminder-plugin",
   "obsidian-advanced-uri",
   "obsidian-latex-suite",
-  "obsidian-emoji-toolbar",
-  "execute-code",
   "obsidian-utils",
-  "croniev-bookkeeping"
+  "dataview",
+  "table-editor-obsidian",
+  "croniev-bookkeeping",
+  "quickadd",
+  "obsidian-timelines",
+  "obsidian-emoji-toolbar",
+  "obsidian-file-path-to-uri",
+  "obsidian-opener",
+  "obsidian-excalidraw-plugin"
 ]
