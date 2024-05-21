@@ -19,7 +19,7 @@ Aliases::
 ---
 ***Erscheinungsdatum***:: <% isSplit ? splits[0] : "<% tp.file.cursor(0) %\>" %>
 **Autor**:: <%* if(isSplit){
-try{ %><% "[[" + app.vault.getFiles().find((file) => file.basename.includes(`${splits[1]},`)).basename + "]]" %><%*
+try{ %><% "[[" + app.vault.getFiles().find((file) => file.basename.includes(`${splits[1]},`) && file.tags.includes("Person")).basename + "]]" %><%*
 } catch (e){ %>[[<% splits[1] %>]]<%*}
 }else{%><% tp.file.cursor(1) %><%* } %>
 Ende:: 

@@ -17,17 +17,18 @@ aliases:
 > table
 > FROM #system
 > FLATTEN thema
-> WHERE thema = [[${title}$]]
+> WHERE thema = [[${title}]]
 > SORT date asc
 > \`\`\`
 `-%>
 
 <% tp.file.cursor(0) %>
+
 ## <font color="teal">Knowledge</font>
 <%* tR += `
 \`\`\`dataview
 table Thema,date
-FROM !#Reads and !#Person and !#system
+FROM !#Reads and !#Person and !#system and !"Templates"
 WHERE contains(join(thema), "${title}")
 SORT file.name asc
 \`\`\`

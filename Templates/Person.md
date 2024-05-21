@@ -1,9 +1,9 @@
 ---
 tags: Person, timeline, test
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
+Aliases: "<% tp.file.cursor(2) %>"
 ---
-Thema:: <% tp.file.cursor(0) %>
-Aliases:: <% tp.file.cursor(2) %>
+Thema:: [[(<% tp.file.cursor(0) %>]]
 
  
 ## Leben<%* 
@@ -17,7 +17,7 @@ if (tSplits.length == 1){title += `, ${page.title.split(" ")[0]}`}
 try{await tp.file.rename(`${title}`);}
 catch(e){await tp.file.rename('Duplicate!')}
 let excerptMatch = page.excerpt.match(/[0-9]{3,4}/g)%>
-<span class='ob-timelines' data-date='<%excerptMatch[0]%>-00-00-00' data-end='<%excerptMatch[1] ? excerptMatch[1] : "2100"%>-00-00-00' data-type='range' data-class='person1'>
+<span class='ob-timelines' data-date='<%excerptMatch[0]%>-01-01-00' data-end='<%excerptMatch[1] ? excerptMatch[1] : "2100"%>-01-01-00' data-type='range' data-class='person1'>
 Geburtsdatum:: <%excerptMatch[0]%>
 
 Tod:: <%excerptMatch[1] ? excerptMatch[1] : "2100"%>

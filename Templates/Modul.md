@@ -1,21 +1,18 @@
 ---
 tags: Modul
-semester: 6
+date: <% tp.file.creation_date("YYYY-MM-DD") %>
+semester: M1
+alias: "!<% tp.file.cursor(1) %>"
 ---
-
+<% tp.file.cursor(0) %>
 ## <font color="teal">Knowledge</font>
 ```dataview
-table vorlesung
-FROM !"Templates" AND #<% tp.file.cursor(0) %>
-SORT vorlesung desc
+table sitzung
+FROM !"Templates" AND #<% tp.file.cursor(1) %>
+SORT sitzung desc
 ```
 
 ## <font color="green">Texte</font>
 ```query
-path:Universität/<% tp.file.cursor(1) %>/Reading
-```
-
-## Aufgaben
-```query
-path:Universität/<% tp.file.cursor(2) %>/Aufgaben
+path:Master_TechPhil/<% tp.file.cursor(3) %>/Reads
 ```
