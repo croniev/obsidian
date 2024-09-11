@@ -821,3 +821,20 @@
       "key": "."
     }
   ],
+  "editor:toggle-inline-math": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-excalidraw-plugin:Downloaded/Slideshow": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F5"
+    }
+  ]
+}
