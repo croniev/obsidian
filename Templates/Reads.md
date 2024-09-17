@@ -11,7 +11,6 @@ if (title.startsWith("Untitled")) {
 tags: Reads
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
 seiten: <% pdfDoc.numPages %>
-aliases: 
 ---
 Thema:: [[(<% tp.file.cursor(2) %>]]
 Aliases:: 

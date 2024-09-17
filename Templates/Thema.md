@@ -40,7 +40,7 @@ SORT file.name asc
 table Autor, Erscheinungsdatum as Date, Thema
 FROM #Reads and !"Templates"
 WHERE contains(join(thema), "${title}")
-SORT file.name asc
+SORT Erscheinungsdatum desc
 \`\`\`
 `-%>
 
@@ -50,6 +50,6 @@ SORT file.name asc
 table Geburtsdatum, Tod, Thema
 FROM #Person
 WHERE contains(join(thema), "${title}")
-SORT file.name asc
+SORT Geburtsdatum desc
 \`\`\`
 `-%>

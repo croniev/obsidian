@@ -22,7 +22,7 @@ And type != "einsicht"
 > ```
 
 
-`type`: gedanke, einsicht
+`types`: gedanke, einsicht
 
 ```dataview
 calendar file.ctime

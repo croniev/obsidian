@@ -25,3 +25,12 @@ FROM  !"Templates" and !#Zeit and !#Person
 WHERE zeit
 SORT start desc
 ```
+
+## <font color="#ee1144">Reads</font>
+
+```dataview
+table Autor, Erscheinungsdatum as Date, Thema
+FROM #Reads and !"Templates"
+WHERE contains(join(thema), "!Geschichte") or contains(join(thema), "(Zeit)")
+SORT file.name asc
+```
