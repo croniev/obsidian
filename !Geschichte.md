@@ -1,5 +1,8 @@
 ---
-tags: Knowledge
+tags:
+  - Knowledge
+aliases:
+  - "!History"
 ---
 
 >[!info]+ Perioden

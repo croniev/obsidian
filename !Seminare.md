@@ -1,5 +1,8 @@
 ---
-tags: knowledge
+tags:
+  - knowledge
+aliases:
+  - "!Kongresse"
 ---
 ```dataview
 table Wo, Start, End, Thema

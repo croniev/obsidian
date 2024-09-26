@@ -2,14 +2,14 @@
 tags: personal
 aliases: ["!TB"]
 ---
-`types`: gemacht, goodfeel, badfeel, neutral, traum, zsf
-
-```dataview
-calendar file.ctime
-FROM #TB and !"Templates"
-where type != "gedanke"
-And type != "einsicht"
-```
+>[!summary]- `types`: gemacht, goodfeel, badfeel, neutral, traum, zsf
+> 
+> ```dataview
+> calendar file.ctime
+> FROM #TB and !"Templates"
+> where type != "gedanke"
+> And type != "einsicht"
+> ```
 
 >[!example]- List
 > 
@@ -21,22 +21,42 @@ And type != "einsicht"
 > SORT date desc, time desc
 > ```
 
+[[Lustige Geschichten]]
 
-`types`: gedanke, einsicht
+---
 
-```dataview
-calendar file.ctime
-FROM #TB and !"Templates"
-where type = "gedanke"
-or type = "einsicht"
-```
+>[!summary]- `type`: gedanke
+> 
+> ```dataview
+> calendar date
+> FROM #TB and !"Templates"
+> where type = "gedanke"
+> ```
 
 >[!example]- List
 > ```dataview
-> table type, date, time 
+> table date, time 
 > FROM #TB and !"Templates"
 > flatten type
 > where type = "gedanke" 
-> Or type = "einsicht"
+> SORT date desc, time desc
+> ```
+
+---
+
+>[!summary]- `type`: einsicht
+> 
+> ```dataview
+> calendar date
+> FROM #TB and !"Templates"
+> where type = "einsicht"
+> ```
+
+>[!example]- List
+> ```dataview
+> table date, System 
+> FROM #TB and !"Templates"
+> flatten type
+> where type = "einsicht" 
 > SORT date desc, time desc
 > ```

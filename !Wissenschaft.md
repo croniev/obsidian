@@ -7,7 +7,7 @@ Hier sollen Themen aus den Wissenschaften die weder
 [[!Soziologie]]
 [[!Psychologie]]
 [[!Politik]] zuzuordnen sind.
-Nicht zu verwechseln mit [[(P) Wissenschaft]] in der Philosophie.
+Nicht zu verwechseln mit [[(P) Wissenschaftsphilosophie]] in der Philosophie.
 
 ---
 > [!info]+ <font color="cc55cc" size=4px>Themen</font>
