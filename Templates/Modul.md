@@ -1,7 +1,7 @@
 ---
 tags: Modul
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
-semester: M1
+semester: M2
 alias: "!<% tp.file.cursor(1) %>"
 ---
 <% tp.file.cursor(0) %>

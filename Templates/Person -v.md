@@ -18,7 +18,6 @@ Tod:: <% tp.file.cursor(4) %>
 
 ## Themen
 <% tp.file.cursor(5) %>
-
 <%* tR += `
 \`\`\`dataview
 table date

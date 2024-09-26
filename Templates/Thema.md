@@ -12,7 +12,7 @@ date: <% tp.file.creation_date("YYYY-MM-DD") %>
 aliases: 
 ---
 <%* tR += `
->[!example]-  <font color="cc2299" size=4px>Systeme</font>
+>[!example]-  <font color="cc2299">Systeme</font>
 > \`\`\`dataview
 > table
 > FROM #system

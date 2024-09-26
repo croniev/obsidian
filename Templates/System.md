@@ -13,10 +13,27 @@ aliases: []
 ---
 Thema:: <% tp.file.cursor(0) %>
 
-###### Quellen
-
-#
 ---
+## <%* tR += title.split('(S) ')[1] -%>
+
+<% tp.file.cursor(1) %>
+
+## Verwandt:
+<% tp.file.cursor(2) %>
+
+##
+<% tp.file.cursor(3) %>
+
+## <font color="teal">Begriffe</font>
+<%* tR += `
+\`\`\`dataview
+TABLE date
+FROM #lev and !#Oldies
+WHERE contains(join(system), "${title}")
+SORT file.name asc
+\`\`\`
+`-%>
+
 <%* tR += `
 >[!example]- Old
 >\`\`\`dataview
@@ -25,21 +42,6 @@ Thema:: <% tp.file.cursor(0) %>
 > WHERE contains(join(system), "${title}")
 > SORT date desc
 > \`\`\`
-`-%>
-
-<% tp.file.cursor(2) %>
-
-## Verwandt:
-<% tp.file.cursor(1) %>
-
-## <font color="teal">Begriffe</font>
-<%* tR += `
-\`\`\`dataview
-TABLE date
-FROM #lev
-WHERE contains(join(system), "${title}")
-SORT file.name asc
-\`\`\`
 `-%>
 
 ## <font color="bb44dd">Einsichten</font>

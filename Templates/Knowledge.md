@@ -11,5 +11,4 @@ Person:: [[<%tp.file.cursor(2) %>]]
 
 ---
 #
-
 <% tp.file.cursor(6) %>

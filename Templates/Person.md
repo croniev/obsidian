@@ -24,9 +24,7 @@ Tod:: <%excerptMatch[1] ? excerptMatch[1] : "2100"%>
 </span>
 
 ## Themen
-<% tp.file.cursor(5) %>
-
-<%* tR += `
+<% tp.file.cursor(5) %><%* tR += `
 \`\`\`dataview
 table date
 Flatten Person

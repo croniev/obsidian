@@ -8,7 +8,10 @@ Type:: <%*const type = await tp.system.suggester((item) => item, ["goodfeel", "b
 <%* if (type == "einsicht"){ %>System:: [[(S)<% tp.file.cursor(0) %>]]
 
 <%* }
-var filename = "/Tagebuch/" + tp.date.now("DD.MM.YY") + " - "
+var filename = "/Tagebuch/" 
+if (type != "einsicht"){
+filename += tp.date.now("DD.MM.YY") + " - "}
+else{filename += "einsicht - "}
 if (type == "gedanke"){
 filename += "Gedankentagebuch"; %>#### Setting
 <% tp.file.cursor(1) %>

@@ -2,7 +2,7 @@
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
 aliases: <% tp.file.cursor(3) %>
 ---
-Thema:: [[(<% tp.file.cursor(1) %>]]
+Thema: [[(<% tp.file.cursor(1) %>]]
 System:: [[(S)<% tp.file.cursor(2) %>]]
 date-started:: 
 date-finished:: 
