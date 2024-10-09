@@ -40,6 +40,6 @@ table Erscheinungsdatum
 FROM #Reads
 Flatten Autor
 Where Autor = [[${title}]]
-SORT erscheinungsdatum asc
+SORT erscheinungsdatum desc
 \`\`\`
 `-%>

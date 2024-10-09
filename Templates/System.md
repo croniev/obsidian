@@ -54,3 +54,11 @@ WHERE contains(join(system), "${title}")
 SORT date desc
 \`\`\`
 `-%>
+
+## <font color="44d044">Backlinks</font>
+
+```dataview
+TABLE date
+FROM !#lev and [[]]
+SORT date desc
+```

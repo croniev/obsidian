@@ -5,7 +5,7 @@ time: <% tp.file.creation_date("HH:mm") %>
 ---
 Type:: einsicht
 
-System:: [[(S)<% tp.file.cursor(0) %>]]
+System:: [[(S) <% tp.file.cursor(0) %>]]
 <%*
 let title = tp.file.title
 var filename = "/Tagebuch/einsicht - "
